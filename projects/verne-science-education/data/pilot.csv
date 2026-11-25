@@ -1,0 +1,51 @@
+﻿paragraph_id,sample_order,sample_group,initial_blind_code,AI_contextual_suggestion,rule_code,final_reviewed_code,recorded_reason_tr
+P1255,1,no match,0,0,0,0,Yalnızca karakter diyaloğu; bilimsel bilgi veya gözlem sunulmuyor.
+P1329,2,F3,2,1,1,1,Denizaltında fotoğraf çekimi teknolojisi anılıyor; teknik işleyiş açıklanmıyor.
+P1008,3,F4,2,2,2,2,"Mercanlar, algler ve kıyı habitatları doğrudan gözlemlenip betimleniyor."
+P921,4,F2,2,2,1,2,İncinin kimyasal bileşimi ve biyolojik oluşumu açıklanıyor.
+P95,5,EK,2,2,2,2,Atmosfer basıncı birimlerle ölçülüp sayısal hesaplama yapılıyor.
+P395,6,F3,0,1,1,1,Elektrikli telgrafın iletişim amaçlı kullanımı var; teknik mekanizma açıklanmıyor.
+P1520,7,no match,0,2,0,2,Güneş'in gökyüzündeki konumu ve yarımküre bağlamı hakkında gözlem bulunuyor.
+P1201,8,no match,0,1,0,1,Bulut ve rüzgâr gibi hava olayları betimleniyor; bilimsel açıklama yok.
+P922,9,no match,2,2,1,2,Yumuşakça türleri ve inci oluşturma süreçleri açıklanıyor.
+P1282,10,F4,2,2,2,2,"Lav, krater, oksijen ve suyla ısı etkileşimi doğrudan açıklanıyor."
+P507,11,EK,2,2,1,2,Basınçlı havanın silah mekanizmasındaki kullanımı açıklanıyor.
+P115,12,F2,1,2,0,2,Avustralya ile Avrupa arasında mevsimlerin tersliği bilgisi veriliyor.
+P1283,13,F4,2,2,1,2,"Volkanik püskürme, gazlar ve lav akışları betimleniyor."
+P1216,14,no match,0,0,0,0,Saat ve karakterin duygusu anlatılıyor; fen içeriği yok.
+P1342,15,EK,2,2,2,2,Oksijen tüketimi ölçüleri kullanılarak hesaplama yapılıyor.
+P784,16,EK,2,2,1,2,Kapalı ortamın oksijenle havalandırılması açıkça anlatılıyor.
+P228,17,no match,0,0,1,0,Karakterlerin karanlıkta ilerleyişi; açıklayıcı fen içeriği yok.
+P552,18,F1,2,2,1,2,Derinliğe bağlı bitki ve hayvan dağılımı gözlemleniyor.
+P1357,19,F2,0,1,1,1,Balinaların boyutuna yönelik soru var; açıklama/ölçüm yapılmıyor.
+P491,20,no match,0,0,0,0,Uyanma ve geminin durumu; fen bilgisi yok.
+P1293,21,F4,2,2,2,2,"Kayaç, bazalt ve lav içeren jeolojik gözlemler var."
+P696,22,no match,1,0,0,0,Avcılığa ilişkin karakter konuşması; fen içeriği yok.
+P1153,23,no match,0,0,0,0,Teknenin geri alınması olay örgüsü olarak anlatılıyor.
+P877,24,no match,1,2,0,2,Güneş yüksekliğinin ölçülmesi bir gözlem/ölçüm yöntemi olarak aktarılıyor.
+P1443,25,F4,2,2,2,2,"Volkanik kayaçlar, sülfürlü gazlar ve jeolojik saha gözlemleri var."
+P1411,26,F2,2,2,2,2,"Enlem, meridyen, hız ve süre üzerinden sayısal hesaplama yapılıyor."
+P1320,27,F4,2,2,2,2,Volkanik ortam ve kuş türlerine ilişkin doğrudan saha gözlemleri var.
+P78,28,F1,2,0,1,0,Karakterin zıpkın kullanma becerisi anlatılıyor; bilimsel veri yok.
+P1610,29,F3,2,1,1,1,Buharlı ve zırhlı gemi gözlemi var; teknolojinin işleyişi açıklanmıyor.
+P407,30,F3,2,2,2,2,"Gövde, yoğunluk, kalınlık ve kütle verileriyle teknik hesaplama yapılıyor."
+P605,31,no match,0,0,0,0,Bir gemi enkazının sorulması dışında fen içeriği yok.
+P676,32,no match,2,2,1,2,Ağaçlar ve diğer bitki grupları habitat bağlamında gözlemleniyor.
+P33,33,F3,2,1,1,1,Doğa tarihi üzerine araştırma ve yayınlardan söz ediliyor; içerik açıklanmıyor.
+P1184,34,no match,0,0,0,0,Kanal açma girişimine değiniliyor; somut fen açıklaması yapılmıyor.
+P932,35,F1,0,0,1,0,Köpekbalıklarından korkmaya dair bir soru; açıklama yok.
+P771,36,no match,0,2,0,2,Havanın yenilenmesi için kapakların açılması işlevsel süreç olarak aktarılıyor.
+P1202,37,F3,1,0,0,0,Kaçış düzeni ve araç gereç listesi; bilimsel işleyiş anlatılmıyor.
+P34,38,F1,2,2,0,2,Hipotezleri değerlendirme ve dışlama yoluyla bilimsel akıl yürütme var.
+P773,39,F2,2,0,1,0,Karakterlerin avcılık üzerine sohbeti; bilimsel açıklama yok.
+P968,40,F1,2,2,1,2,Köpekbalığının saldırı davranışı doğrudan gözlemleniyor.
+P160,41,no match,2,2,2,2,"Canlının solunumu, boyutları ve sınıflandırılması gözlemleniyor."
+P388,42,no match,0,0,0,0,"Geminin kıçını incelemeye davet var, teknik açıklama yok."
+P779,43,no match,0,0,0,0,Karakterin odasına dönmesi; fen içeriği yok.
+P459,44,no match,0,0,0,0,Hayranlık ifadesi var; fen içeriği yok.
+P1489,45,no match,0,0,1,0,Kaçış planındaki tehlike; fen içeriği yok.
+P589,46,F1,1,2,1,2,Köpekbalıklarının besine yönelmesine ilişkin hayvan davranışı gözlemi var.
+P1350,47,F2,0,0,1,0,Balık tutmayla ilgili kişisel konuşma; fen açıklaması yok.
+P96,48,EK,2,2,2,2,İç/dış basınç dengesi ve su basıncı farkı açıklanıyor.
+P99,49,EK,2,2,2,2,Derinlerdeki basınç ile vücut dayanıklılığı ilişkilendiriliyor.
+P1007,50,no match,0,0,0,0,Şehrin yapıları ve tarihsel betimlemesi; fen içeriği yok.

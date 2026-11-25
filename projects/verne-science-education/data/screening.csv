@@ -1,0 +1,1681 @@
+﻿paragraph_id,earlier_candidate,expanded_candidate,candidate_groups,rule_code,combined_code,combined_source,later_code,recorded_rule_term_hits
+P4,0,0,,0,0,rule,0,vessels
+P5,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P6,0,0,,1,1,rule,2,cetacean
+P7,1,1,Earth and geosciences,2,2,rule,1,mammal|navigation|steam|eruption|geyser
+P8,1,1,Natural environment and interactions,2,2,rule,2,navigation|steam|velocity
+P9,0,0,,2,2,rule,1,mammal
+P10,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,whales
+P11,0,0,,1,1,rule,1,light
+P12,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whale
+P13,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,scientific
+P14,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,scientific
+P15,1,1,Science and technology,2,0,AI contextual review,0,reef|scientific
+P16,1,1,Natural environment and interactions,1,1,rule,1,ocean|sea|rock
+P17,1,1,Natural environment and interactions,1,1,rule,1,sea|ship|vessel|rock
+P18,0,0,,0,0,rule,0,vessel
+P19,1,1,Natural environment and interactions,0,0,rule,0,sea|speed
+P20,0,0,,0,0,rule,0,
+P21,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,engines|force
+P22,1,1,Science and technology,2,2,rule,1,instrument
+P23,0,0,,1,1,rule,0,steam
+P24,1,1,Natural environment and interactions,1,1,rule,0,cetacean
+P25,1,1,Science and technology,1,1,rule,1,scientific
+P26,0,0,,0,0,rule,0,
+P27,0,0,,0,0,rule,1,island|machine|sandbank
+P28,0,0,,0,0,rule,1,
+P29,1,1,Science and technology,1,1,rule,1,submarine
+P30,1,1,Science and technology,1,1,rule,1,engine|submarine
+P31,1,1,Science and technology,1,1,rule,1,submarine
+P32,1,1,Science and technology,1,1,rule,1,submarine
+P33,1,1,Science and technology,1,1,researcher-reviewed pilot,1,submarine
+P34,1,1,Living organisms and biodiversity,0,2,researcher-reviewed pilot,2,animal|marine
+P35,1,1,Living organisms and biodiversity|Natural environment and interactions,2,1,AI contextual review,1,cetaceans|fishes|species|strata
+P36,1,1,Living organisms and biodiversity,1,1,rule,1,narwhal
+P37,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,narwhal|instrument
+P38,1,1,Living organisms and biodiversity,1,1,rule,2,narwhal|whales
+P39,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,animal|sea|miles
+P40,0,0,,0,0,rule,0,
+P41,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,2,animals|sea
+P42,0,0,,1,1,rule,0,narwhal
+P43,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,fishing|apparatus
+P44,0,0,,0,0,rule,0,
+P45,0,0,,0,0,rule,0,
+P46,0,0,,0,0,rule,0,
+P47,1,1,Natural environment and interactions,0,0,rule,0,life|marine|sea
+P48,0,0,,0,0,rule,0,
+P49,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,0,narwhal
+P50,1,1,Natural environment and interactions,0,0,rule,0,life|nature
+P51,0,0,,0,0,rule,0,
+P52,0,0,,1,1,rule,0,degree
+P53,0,0,,0,0,rule,0,
+P54,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P55,0,0,,0,0,rule,0,
+P56,0,0,,0,0,rule,0,
+P57,0,0,,0,0,rule,0,
+P58,0,0,,0,0,rule,0,
+P59,0,0,,0,0,rule,0,
+P60,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,narwhal|submarine
+P61,0,0,,0,0,rule,0,
+P62,0,0,,0,0,rule,0,
+P63,1,1,Science and technology,1,1,rule,2,cetacean|engines|pressure
+P64,0,0,,0,0,rule,0,
+P65,0,0,,0,0,rule,1,
+P66,0,0,,0,0,rule,0,
+P67,0,0,,0,0,rule,0,
+P68,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,0,0,rule,1,animal|seas|engineer
+P69,0,0,,1,1,rule,1,coast|waters|speed
+P70,0,0,,1,1,rule,0,steam
+P71,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,cetacean|narwhal
+P72,1,1,Natural environment and interactions,1,1,rule,1,heat
+P73,0,0,,0,0,rule,0,
+P74,0,0,,0,0,rule,0,
+P75,0,0,,0,0,rule,0,
+P76,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,cetacean|apparatus|engine
+P77,0,0,,0,0,rule,0,
+P78,1,1,Living organisms and biodiversity,1,0,researcher-reviewed pilot,0,whale|degree
+P79,0,0,,0,0,rule,0,feet
+P80,0,0,,0,0,rule,0,
+P81,1,1,Natural environment and interactions,1,1,rule,0,fishing
+P82,0,0,,0,0,rule,0,
+P83,0,0,,1,1,rule,1,marine|coast|waters|miles
+P84,1,1,Natural environment and interactions,0,0,rule,0,sea|depths
+P85,0,0,,1,1,rule,2,cetacean
+P86,0,0,,0,0,rule,0,
+P87,1,1,Natural environment and interactions,1,1,rule,1,cetaceans
+P88,1,1,Natural environment and interactions,1,1,rule,1,cetacean
+P89,0,0,,1,1,rule,1,narwhal
+P90,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,cetaceans|whales
+P91,1,1,Living organisms and biodiversity,1,1,rule,1,mammal|whales
+P92,0,0,,0,0,rule,0,air
+P93,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,strata
+P94,1,1,Natural environment and interactions,2,2,AI contextual review,2,strata|atmosphere|density|pressure
+P95,0,1,Supplementary science search,2,2,researcher-reviewed pilot,2,atmospheric|pressure
+P96,0,1,Supplementary science search,2,2,researcher-reviewed pilot,2,equilibrium|pressure
+P97,0,0,,0,0,rule,0,water
+P98,1,1,Natural environment and interactions,2,2,rule,2,pressure
+P99,0,1,Supplementary science search,2,2,researcher-reviewed pilot,2,vertebrate|pressure|resistance
+P100,0,0,,0,0,rule,0,
+P101,0,0,,0,0,rule,1,vessel|speed
+P102,0,0,,0,0,rule,0,
+P103,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,0,animals|seas
+P104,0,0,,0,0,rule,0,
+P105,0,0,,0,0,rule,0,
+P106,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,narwhal|whale
+P107,0,0,,0,0,rule,0,
+P108,0,0,,0,0,rule,0,coast
+P109,0,0,,1,1,rule,0,narwhal
+P110,0,0,,1,1,rule,0,island|waters|rock|miles
+P111,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P112,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,cetacean|whale
+P113,0,0,,0,0,rule,0,
+P114,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P115,1,1,Natural environment and interactions,0,2,researcher-reviewed pilot,2,sea
+P116,1,1,Natural environment and interactions,1,1,rule,1,islands|seas|water|waters|ship|deep
+P117,1,1,Living organisms and biodiversity,1,1,rule,1,whales|machinery|steam
+P118,0,0,,0,0,rule,0,ship
+P119,1,1,Natural environment and interactions,0,0,rule,0,seas
+P120,1,1,Natural environment and interactions,1,1,rule,0,narwhal
+P121,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,sharks|steam|submarine|pressure
+P122,0,0,,0,0,rule,0,
+P123,1,1,Natural environment and interactions,1,1,rule,1,coast|sea|vessel|miles
+P124,1,1,Natural environment and interactions,2,0,AI contextual review,0,degrees|light
+P125,0,0,,0,0,rule,0,
+P126,0,0,,0,0,rule,0,
+P127,0,0,,0,0,rule,0,
+P128,0,0,,0,0,rule,0,
+P129,0,0,,0,0,rule,0,
+P130,0,0,,0,0,rule,0,
+P131,0,0,,0,0,rule,0,
+P132,0,0,,0,0,rule,0,
+P133,0,0,,0,0,rule,0,
+P134,0,0,,0,0,rule,0,
+P135,1,1,Science and technology,1,1,rule,1,engines
+P136,1,1,Natural environment and interactions,1,1,rule,1,heat|light
+P137,0,0,,0,0,rule,0,
+P138,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,electrical|light
+P139,0,0,,1,1,rule,0,steam
+P140,0,0,,1,1,rule,1,light
+P141,1,1,Living organisms and biodiversity,1,1,rule,0,velocity
+P142,1,1,Living organisms and biodiversity|Science and technology,2,2,rule,2,electric|steam
+P143,0,0,,0,0,rule,0,
+P144,0,0,,0,0,rule,0,
+P145,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,0,animal|nature
+P146,1,1,Science and technology,1,1,rule,1,narwhal|electric
+P147,0,0,,0,0,rule,0,
+P148,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P149,0,0,,2,2,rule,2,narwhal|velocity
+P150,0,0,,0,0,rule,0,
+P151,1,1,Living organisms and biodiversity,1,1,rule,0,whales
+P152,1,1,Living organisms and biodiversity,1,1,rule,0,whales
+P153,1,1,Natural environment and interactions,0,0,rule,0,
+P154,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,narwhal|steam|light
+P155,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P156,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,0,fishing
+P157,1,1,Natural environment and interactions|Science and technology,2,1,AI contextual review,1,narwhal|electric|light
+P158,0,0,,0,0,rule,0,
+P159,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,0,animal|sea
+P160,0,0,,2,2,researcher-reviewed pilot,2,vertebrate|steam
+P161,1,1,Living organisms and biodiversity|Science and technology,0,0,rule,1,animal|engineer
+P162,0,0,,0,0,rule,0,
+P163,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P164,0,0,,1,1,rule,0,cetacean
+P165,1,1,Natural environment and interactions,0,0,rule,0,sea
+P166,0,0,,0,0,rule,0,
+P167,0,0,,1,1,rule,0,steam
+P168,0,0,,1,1,rule,0,steam
+P169,1,1,Living organisms and biodiversity,0,0,rule,0,animal|miles
+P170,0,0,,0,0,rule,0,feet
+P171,0,0,,0,0,rule,0,speed
+P172,1,1,Science and technology,2,2,rule,1,cetacean|degrees
+P173,1,1,Living organisms and biodiversity,1,1,rule,2,cetacean
+P174,0,0,,0,0,rule,0,
+P175,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P176,0,0,,1,1,rule,1,cetacean
+P177,0,0,,0,0,rule,0,
+P178,0,0,,0,0,rule,0,
+P179,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,animal|sea|depth|miles
+P180,0,0,,0,0,rule,0,
+P181,1,1,Science and technology,1,1,rule,1,engine|steam
+P182,1,1,Natural environment and interactions,0,0,rule,0,ocean|miles
+P183,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,electric|light
+P184,0,0,,1,1,rule,0,narwhal
+P185,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,0,whales|steam
+P186,1,1,Living organisms and biodiversity,1,1,rule,1,light
+P187,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,electric|light
+P188,0,0,,1,1,rule,0,water|depth|feet
+P189,0,0,,0,0,rule,1,
+P190,0,0,,0,0,rule,0,
+P191,1,1,Natural environment and interactions,0,0,rule,0,sea|water
+P192,0,0,,0,0,rule,0,
+P193,0,0,,0,0,rule,0,
+P194,1,1,Natural environment and interactions,0,0,rule,1,sea
+P195,0,0,,0,0,rule,1,
+P196,0,0,,0,0,rule,0,
+P197,0,0,,0,0,rule,0,weight
+P198,0,0,,0,0,rule,0,
+P199,0,0,,0,0,rule,0,
+P200,0,0,,0,0,rule,0,
+P201,1,1,Natural environment and interactions,1,1,rule,2,cetacean
+P202,0,0,,0,0,rule,1,
+P203,1,1,Natural environment and interactions,1,1,rule,1,light
+P204,0,0,,0,0,rule,0,
+P205,0,0,,0,0,rule,0,
+P206,1,1,Natural environment and interactions,0,0,rule,0,ocean|vessel
+P207,0,0,,0,0,rule,0,water
+P208,1,1,Living organisms and biodiversity,1,1,rule,1,whales
+P209,0,0,,0,0,rule,0,water
+P210,0,0,,0,0,rule,0,
+P211,0,0,,1,1,rule,1,light
+P212,1,1,Natural environment and interactions,0,0,rule,0,sea
+P213,0,0,,0,0,rule,1,island
+P214,0,0,,0,0,rule,0,
+P215,1,1,Living organisms and biodiversity,1,1,rule,1,animals|marine|water
+P216,0,0,,0,0,rule,2,
+P217,0,0,,0,0,rule,0,
+P218,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,fish|submarine
+P219,0,0,,1,1,rule,0,water|feet|speed
+P220,0,0,,0,0,rule,0,life
+P221,0,0,,0,0,rule,1,machine
+P222,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P223,0,0,,0,0,rule,0,
+P224,0,0,,0,0,rule,0,
+P225,0,0,,0,0,rule,0,
+P226,0,0,,0,0,rule,1,machine
+P227,1,1,Natural environment and interactions,0,0,rule,0,sea
+P228,0,0,,1,0,researcher-reviewed pilot,0,light
+P229,0,1,Supplementary science search,0,0,rule,0,
+P230,0,0,,0,0,rule,0,
+P231,0,0,,0,0,rule,0,
+P232,0,0,,0,0,rule,0,
+P233,0,0,,0,0,rule,0,
+P234,0,0,,0,0,rule,0,
+P235,0,0,,0,0,rule,0,feet
+P236,1,1,Science and technology,1,1,rule,1,electric|submarine|light
+P237,0,0,,0,0,rule,0,
+P238,0,0,,0,0,rule,0,
+P239,1,1,Natural environment and interactions,0,0,rule,0,ocean|depths
+P240,0,0,,0,0,rule,0,
+P241,0,0,,0,0,rule,0,
+P242,0,0,,1,1,rule,2,energy
+P243,0,0,,0,0,rule,2,
+P244,1,1,Natural environment and interactions,0,0,rule,0,seas|water|depths
+P245,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,seal
+P246,0,0,,0,0,rule,0,
+P247,0,0,,0,0,rule,0,
+P248,0,0,,0,0,rule,0,
+P249,0,0,,0,0,rule,0,
+P250,0,0,,0,0,rule,0,
+P251,0,0,,0,0,rule,0,
+P252,0,0,,0,0,rule,0,
+P253,0,0,,0,0,rule,0,
+P254,0,0,,0,0,rule,0,
+P255,0,0,,0,0,rule,0,
+P256,0,0,,0,0,rule,0,
+P257,0,0,,0,0,rule,0,
+P258,0,0,,0,0,rule,0,
+P259,0,0,,0,0,rule,0,
+P260,0,0,,0,0,rule,0,
+P261,0,0,,0,0,rule,0,
+P262,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,shark
+P263,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,fish|electric|light
+P264,1,1,Natural environment and interactions,0,0,rule,0,sea
+P265,0,0,,0,0,rule,0,
+P266,0,0,,0,0,rule,0,
+P267,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P268,0,0,,0,0,rule,0,
+P269,0,1,Supplementary science search,2,2,rule,2,acid|carbonic|oxygen
+P270,1,1,Science and technology,2,2,rule,2,cetacean|submarine|acid|atmosphere|atmospheric|carbonic|chemical|heat|oxygen
+P271,1,1,Natural environment and interactions,1,1,rule,1,current|oxygen
+P272,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whales
+P273,0,1,Supplementary science search,1,1,rule,1,atmosphere
+P274,0,0,,0,0,rule,0,air|feet
+P275,1,1,Natural environment and interactions,0,0,rule,0,sea
+P276,0,0,,0,0,rule,0,
+P277,0,0,,1,1,rule,0,narwhal
+P278,0,0,,0,0,rule,0,
+P279,0,0,,0,0,rule,0,
+P280,0,0,,0,0,rule,0,
+P281,0,0,,0,0,rule,0,
+P282,0,0,,0,0,rule,0,
+P283,0,0,,0,0,rule,0,
+P284,0,0,,0,0,rule,0,waters|depths
+P285,0,0,,0,0,rule,0,
+P286,0,0,,0,0,rule,0,
+P287,0,0,,0,0,rule,0,
+P288,0,0,,0,0,rule,0,
+P289,0,0,,0,0,rule,0,
+P290,0,0,,0,0,rule,0,
+P291,1,1,Science and technology,1,1,rule,1,scientific
+P292,0,0,,0,0,rule,0,
+P293,0,0,,0,0,rule,0,
+P294,1,1,Natural environment and interactions,0,0,rule,0,seas|vessel
+P295,0,0,,0,0,rule,0,
+P296,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P297,0,0,,0,0,rule,0,
+P298,1,1,Science and technology,1,1,rule,1,submarine
+P299,0,0,,1,1,rule,0,narwhal
+P300,0,0,,0,0,rule,0,
+P301,0,0,,1,1,rule,0,force
+P302,0,0,,0,0,rule,0,waters|vessel
+P303,0,0,,0,0,rule,0,
+P304,0,0,,0,0,rule,0,
+P305,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P306,0,0,,0,0,rule,0,
+P307,0,0,,0,0,rule,0,vessel
+P308,0,0,,0,0,rule,0,
+P309,0,0,,0,0,rule,0,
+P310,0,0,,0,0,rule,0,
+P311,0,0,,0,0,rule,0,
+P312,0,0,,0,0,rule,0,
+P313,0,0,,0,0,rule,0,
+P314,0,0,,0,0,rule,0,
+P315,0,0,,0,0,rule,0,
+P316,0,0,,0,0,rule,0,
+P317,0,0,,0,0,rule,0,
+P318,0,0,,0,0,rule,0,
+P319,1,1,Natural environment and interactions,0,0,rule,0,ocean|depths
+P320,0,0,,0,0,rule,0,
+P321,0,0,,0,0,rule,0,life
+P322,0,0,,0,0,rule,0,vessel
+P323,1,1,Natural environment and interactions,0,0,rule,0,sea|vessel|depths
+P324,0,0,,0,0,rule,0,
+P325,0,0,,0,0,rule,0,
+P326,0,0,,0,0,rule,0,
+P327,0,0,,0,0,rule,0,
+P328,0,0,,0,0,rule,0,
+P329,1,1,Science and technology,1,1,rule,1,electricity
+P330,0,0,,1,1,rule,1,light
+P331,0,0,,0,0,rule,0,
+P332,1,1,Natural environment and interactions,0,0,rule,0,marine|nature|sea
+P333,0,0,,0,0,rule,0,
+P334,0,0,,0,0,rule,0,
+P335,1,1,Natural environment and interactions,0,0,rule,0,sea
+P336,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P337,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,fish|submarine
+P338,1,1,Natural environment and interactions,0,0,rule,2,ocean|sea
+P339,0,0,,0,0,rule,0,
+P340,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,mineral
+P341,0,0,,0,0,rule,0,
+P342,0,0,,0,0,rule,0,
+P343,0,0,,0,0,rule,0,
+P344,1,1,Science and technology,1,1,rule,0,electric|light
+P345,1,1,Natural environment and interactions,0,0,rule,0,seas
+P346,0,0,,0,0,rule,0,
+P347,0,0,,0,0,rule,0,
+P348,0,0,,0,0,rule,0,waters
+P349,0,0,,0,0,rule,0,
+P350,0,0,,0,0,rule,0,
+P351,0,0,,0,0,rule,0,
+P352,0,0,,0,0,rule,0,
+P353,0,0,,0,0,rule,0,
+P354,0,0,,0,0,rule,0,
+P355,1,1,Natural environment and interactions,0,0,rule,0,sea
+P356,0,0,,0,0,rule,0,
+P357,1,1,Natural environment and interactions,1,1,rule,1,light
+P358,1,1,Natural environment and interactions,0,0,rule,0,sea
+P359,0,0,,0,0,rule,0,
+P360,0,0,,0,0,rule,0,
+P361,0,0,,0,0,rule,0,
+P362,0,0,,0,0,rule,1,
+P363,0,0,,0,0,rule,0,feet
+P364,0,0,,0,0,rule,0,deep
+P365,0,0,,0,0,rule,0,
+P366,1,1,Natural environment and interactions,0,0,rule,0,sea
+P367,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,corals|species|zoophytes
+P368,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,bivalve|fish|molluscs
+P369,1,1,Natural environment and interactions|Science and technology,1,1,rule,2,molluscs|pearls|electric|light
+P370,0,0,,0,0,rule,0,
+P371,1,1,Natural environment and interactions,0,0,rule,1,sea
+P372,1,1,Natural environment and interactions,1,1,rule,1,instruments
+P373,0,0,,1,1,rule,1,instruments
+P374,0,0,,0,0,rule,0,
+P375,0,0,,0,0,rule,0,
+P376,0,0,,0,0,rule,0,
+P377,0,0,,0,0,rule,0,
+P378,1,1,Natural environment and interactions,2,2,rule,1,barometer|compass|instruments|navigation|thermometer|atmosphere|temperature
+P379,0,0,,1,1,rule,1,instruments
+P380,0,1,Supplementary science search,1,1,rule,1,pressure
+P381,0,0,,0,0,rule,0,
+P382,1,1,Science and technology,1,1,rule,1,apparatus|electricity
+P383,1,1,Science and technology,1,1,rule,2,electricity|force
+P384,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,electricity|heat|light
+P385,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,electrical|electricity|light
+P386,1,1,Science and technology,1,1,rule,1,electric|electricity
+P387,0,0,,1,1,rule,0,steam
+P388,0,0,,0,0,researcher-reviewed pilot,0,
+P389,1,1,Science and technology,2,2,rule,1,instruments|submarine
+P390,0,0,,0,0,rule,0,
+P391,1,1,Natural environment and interactions,1,1,rule,1,fishing|light
+P392,0,0,,0,0,rule,0,water
+P393,1,1,Natural environment and interactions,1,1,rule,1,pressure
+P394,0,0,,0,0,rule,0,
+P395,1,1,Science and technology,1,1,researcher-reviewed pilot,1,electric|telegraph
+P396,0,0,,0,0,rule,0,
+P397,1,1,Science and technology,2,2,AI contextual review,2,apparatus|electricity|gas|heat
+P398,0,0,,0,0,rule,0,vessel|feet
+P399,1,1,Science and technology,2,2,rule,1,electricity|engine|machinery
+P400,1,1,Science and technology,2,2,rule,2,electricity
+P401,1,1,Natural environment and interactions,1,1,rule,0,resistance
+P402,1,1,Science and technology,1,1,rule,1,submarine
+P403,0,0,,0,0,rule,0,
+P404,0,0,,0,0,rule,1,water|feet
+P405,1,1,Science and technology,1,1,rule,2,submarine
+P406,1,1,Natural environment and interactions,0,0,rule,0,seas
+P407,1,1,Science and technology,2,2,researcher-reviewed pilot,2,apparatus|engine|density
+P408,0,0,,0,0,rule,1,water|vessel
+P409,1,1,Science and technology,2,2,rule,2,submarine|atmosphere|pressure
+P410,0,0,,0,0,rule,0,depths
+P411,1,1,Natural environment and interactions,2,2,rule,2,volume
+P412,1,1,Natural environment and interactions,2,2,rule,2,atmosphere|pressure
+P413,0,0,,0,0,rule,0,
+P414,0,1,Supplementary science search,2,2,rule,2,pressure
+P415,1,1,Natural environment and interactions|Science and technology,2,2,rule,1,electricity|engines
+P416,0,1,Supplementary science search,2,2,rule,2,hydrogen|pressure
+P417,0,0,,0,0,rule,0,waters
+P418,0,0,,0,0,rule,0,
+P419,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,fishing|electric|experiments|light|pressure|resistance
+P420,0,0,,1,1,rule,1,light
+P421,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,electric|light
+P422,0,0,,1,1,rule,0,narwhal
+P423,0,0,,0,0,rule,0,water
+P424,0,0,,0,0,rule,0,vessels
+P425,1,1,Natural environment and interactions|Science and technology,1,1,rule,2,electricity
+P426,1,1,Science and technology,1,1,rule,1,engine|instruments
+P427,1,1,Natural environment and interactions,0,0,rule,0,island|ocean
+P428,0,0,,0,0,rule,0,vessel
+P429,0,0,,0,0,rule,0,
+P430,0,0,,0,0,rule,0,
+P431,0,0,,1,1,rule,1,water|miles|weight
+P432,1,1,Natural environment and interactions,2,2,rule,2,geological|degrees
+P433,1,1,Natural environment and interactions,0,0,rule,0,ocean|oceans|waters
+P434,1,1,Natural environment and interactions,2,2,rule,1,currents|tides|degrees
+P435,0,0,,0,0,rule,0,
+P436,1,1,Science and technology,1,1,rule,1,electric|pressure
+P437,0,0,,0,0,rule,0,
+P438,1,1,Living organisms and biodiversity,1,1,rule,2,animal|marine|water|feet
+P439,0,0,,1,1,rule,1,light
+P440,1,1,Natural environment and interactions,1,1,rule,1,light
+P441,0,0,,1,1,rule,1,instrument
+P442,1,1,Natural environment and interactions,0,0,rule,0,coast|sea
+P443,0,0,,0,0,rule,2,depth
+P444,0,0,,0,0,rule,1,deep
+P445,1,1,Natural environment and interactions,2,2,rule,2,current|currents|gulf stream|temperature
+P446,1,1,Natural environment and interactions,1,1,rule,2,current|currents
+P447,0,0,,0,0,rule,0,
+P448,0,0,,0,0,rule,0,
+P449,1,1,Natural environment and interactions,0,0,rule,0,sea
+P450,0,0,,0,0,rule,0,
+P451,0,0,,0,0,rule,0,ship
+P452,0,0,,0,0,rule,0,
+P453,0,0,,0,0,rule,0,
+P454,0,0,,0,0,rule,0,
+P455,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,electric|light|resistance
+P456,1,1,Natural environment and interactions,1,1,rule,2,strata|light
+P457,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,electric|mineral|light
+P458,0,0,,0,0,rule,1,
+P459,0,0,,0,0,researcher-reviewed pilot,0,
+P460,0,0,,0,0,rule,0,life
+P461,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,species|velocity
+P462,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,2,fish|electric|light
+P463,1,1,Science and technology,2,2,rule,2,compass|electric|instruments|pressure
+P464,0,0,,0,0,rule,0,
+P465,0,0,,1,1,rule,1,current
+P466,0,0,,0,0,rule,0,life
+P467,0,0,,0,0,rule,0,
+P468,0,0,,1,1,rule,2,algæ|zoophytes
+P469,0,0,,0,0,rule,0,
+P470,0,0,,0,0,rule,0,depth|speed
+P471,0,0,,0,0,rule,0,ship
+P472,0,0,,0,0,rule,0,
+P473,0,0,,0,0,rule,0,
+P474,1,1,Natural environment and interactions,1,1,rule,1,oxygen
+P475,1,1,Natural environment and interactions,0,0,rule,0,sea
+P476,1,1,Natural environment and interactions,1,1,rule,1,degrees
+P477,0,0,,0,0,rule,0,
+P478,1,1,Science and technology,1,1,rule,1,navigation|submarine
+P479,0,0,,0,0,rule,0,
+P480,0,0,,0,0,rule,0,
+P481,1,1,Natural environment and interactions,1,1,rule,0,hunting
+P482,0,0,,0,0,rule,0,
+P483,0,0,,0,0,rule,0,
+P484,0,0,,0,0,rule,0,
+P485,0,0,,0,0,rule,0,islands
+P486,0,0,,1,1,rule,0,island|rock|miles
+P487,0,0,,0,0,rule,0,rock
+P488,0,0,,0,0,rule,0,islands
+P489,0,0,,0,0,rule,0,
+P490,0,0,,0,0,rule,0,
+P491,0,0,,0,0,researcher-reviewed pilot,0,
+P492,0,0,,0,0,rule,0,
+P493,0,0,,0,0,rule,0,
+P494,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,fish|zoophytes
+P495,1,1,Science and technology,1,1,rule,1,submarine
+P496,0,0,,0,0,rule,0,
+P497,1,1,Science and technology,1,1,rule,2,submarine
+P498,0,0,,0,0,rule,1,air
+P499,1,1,Natural environment and interactions,2,2,rule,2,apparatus|pressure
+P500,0,1,Supplementary science search,1,1,rule,2,oxygen
+P501,0,1,Supplementary science search,1,1,rule,1,apparatus|pressure
+P502,1,1,Natural environment and interactions,1,1,rule,1,light
+P503,1,1,Science and technology,2,2,AI contextual review,2,apparatus|electricity|carbonic|gas|light
+P504,0,0,,1,1,rule,1,apparatus
+P505,0,0,,0,0,rule,0,
+P506,0,0,,1,1,rule,1,resistance
+P507,0,1,Supplementary science search,1,2,researcher-reviewed pilot,2,pressure
+P508,1,1,Science and technology,1,1,rule,1,submarine
+P509,0,1,Supplementary science search,1,1,rule,0,atmosphere
+P510,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P511,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,electricity
+P512,0,0,,0,0,rule,0,
+P513,0,0,,1,1,rule,1,machinery
+P514,0,0,,0,0,rule,0,
+P515,0,0,,0,0,rule,0,
+P516,1,1,Science and technology,1,1,rule,1,submarine
+P517,0,0,,0,0,rule,0,
+P518,0,0,,0,0,rule,0,
+P519,0,1,Supplementary science search,1,1,rule,2,pressure
+P520,0,0,,0,0,rule,0,
+P521,1,1,Science and technology,1,1,rule,1,electric
+P522,1,1,Natural environment and interactions,0,0,rule,0,sea
+P523,0,0,,0,0,rule,0,
+P524,0,0,,1,1,rule,2,apparatus
+P525,0,0,,0,0,rule,1,
+P526,0,0,,0,0,rule,0,water
+P527,1,1,Natural environment and interactions,2,2,rule,1,light
+P528,0,0,,0,0,rule,2,waters|air|weight
+P529,1,1,Natural environment and interactions,1,1,rule,1,atmosphere|light
+P530,0,0,,1,1,rule,1,shore|depth|feet
+P531,0,0,,1,1,rule,2,degrees
+P532,0,0,,1,1,rule,2,zoophytes
+P533,0,0,,1,1,rule,2,light
+P534,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,coral|molluscs|light
+P535,1,1,Natural environment and interactions,2,2,rule,2,light
+P536,0,1,Supplementary science search,2,2,rule,2,degrees|light|pressure
+P537,0,0,,1,1,rule,1,apparatus
+P538,0,0,,0,0,rule,0,island
+P539,1,1,Science and technology,1,1,rule,1,submarine
+P540,0,0,,0,0,rule,0,
+P541,1,1,Natural environment and interactions,1,1,rule,2,density
+P542,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,2,zoophytes|submarine
+P543,0,0,,1,1,rule,2,marine|water|feet
+P544,1,1,Living organisms and biodiversity,0,0,rule,1,animal
+P545,1,1,Living organisms and biodiversity,1,1,rule,2,fish|zoophytes
+P546,0,0,,0,0,rule,0,
+P547,0,0,,0,0,rule,0,air
+P548,0,0,,0,0,rule,0,
+P549,0,0,,0,0,rule,0,feet
+P550,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,2,apparatus|submarine
+P551,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,apparatus|electric|instrument|light
+P552,1,1,Living organisms and biodiversity,1,2,researcher-reviewed pilot,2,fishes|molluscs|zoophytes
+P553,0,0,,1,1,rule,2,apparatus|light
+P554,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fishes|mammal|strata|light|pressure
+P555,0,0,,1,1,rule,1,water|air|feet
+P556,1,1,Natural environment and interactions,0,0,rule,1,sea|water
+P557,0,0,,1,1,rule,1,force
+P558,0,1,Supplementary science search,1,1,rule,2,algæ|light|oxygen
+P559,0,0,,0,0,rule,0,
+P560,0,0,,1,1,rule,1,algæ
+P561,1,1,Living organisms and biodiversity,1,1,rule,2,sharks
+P562,1,1,Science and technology,1,1,rule,2,electric|light
+P563,1,1,Natural environment and interactions,0,0,rule,0,sea
+P564,0,0,,0,0,rule,0,
+P565,1,1,Natural environment and interactions,1,1,rule,1,light
+P566,0,0,,0,0,rule,0,water
+P567,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,fish|electric|light
+P568,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,fishing|submarine
+P569,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,0,animals|life|ocean
+P570,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P571,0,0,,0,0,rule,0,
+P572,1,1,Science and technology,1,1,rule,1,submarine
+P573,0,0,,0,0,rule,0,
+P574,1,1,Natural environment and interactions,0,0,rule,0,ocean|depth
+P575,0,0,,0,0,rule,0,
+P576,1,1,Natural environment and interactions,0,0,rule,0,sea|depth
+P577,0,0,,0,0,rule,0,depth
+P578,0,0,,0,0,rule,0,miles
+P579,0,0,,0,0,rule,0,ship
+P580,1,1,Science and technology,1,1,rule,1,submarine
+P581,1,1,Natural environment and interactions,2,2,rule,1,thermometer|temperature
+P582,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fish
+P583,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fish
+P584,0,0,,0,0,rule,0,
+P585,0,0,,0,0,rule,0,
+P586,0,0,,0,0,rule,0,
+P587,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,cetacean|electric|light
+P588,1,1,Natural environment and interactions,1,1,rule,2,light
+P589,1,1,Living organisms and biodiversity,1,2,researcher-reviewed pilot,2,sharks
+P590,0,0,,0,0,rule,0,vessel
+P591,1,1,Living organisms and biodiversity,2,2,AI contextual review,2,coral
+P592,0,0,,0,0,rule,0,
+P593,1,1,Natural environment and interactions,1,1,rule,0,island|islands|ocean
+P594,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,corals|reefs
+P595,1,1,Natural environment and interactions,2,2,rule,2,degrees
+P596,1,1,Science and technology,1,1,rule,1,electric
+P597,0,1,Supplementary science search,2,2,rule,1,degrees|heat|temperature
+P598,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,fish
+P599,0,0,,0,0,rule,1,island|islands
+P600,0,0,,0,0,rule,0,
+P601,0,0,,0,0,rule,0,islands
+P602,0,0,,0,0,rule,0,islands
+P603,0,0,,0,0,rule,0,
+P604,1,1,Living organisms and biodiversity|Natural environment and interactions|Earth and geosciences,2,2,AI contextual review,2,cetacean|coral|reef|volcanic
+P605,0,0,,0,0,researcher-reviewed pilot,0,
+P606,0,0,,0,0,rule,0,
+P607,0,0,,0,0,rule,0,
+P608,0,0,,0,0,rule,0,
+P609,0,0,,0,0,rule,0,islands|vessels
+P610,0,0,,0,0,rule,0,life
+P611,0,0,,1,1,rule,0,reefs
+P612,0,0,,1,1,rule,1,tides
+P613,0,0,,0,0,rule,0,vessel
+P614,0,0,,0,0,rule,0,
+P615,0,0,,1,1,rule,1,instruments
+P616,0,0,,0,0,rule,0,
+P617,1,1,Natural environment and interactions,0,0,rule,0,island
+P618,0,0,,1,1,rule,0,reefs
+P619,0,0,,0,0,rule,0,island
+P620,0,0,,0,0,rule,0,
+P621,1,1,Natural environment and interactions,1,1,rule,0,reefs
+P622,0,0,,1,1,rule,0,reefs
+P623,0,0,,0,0,rule,0,coast
+P624,0,0,,0,0,rule,0,island|vessel
+P625,0,0,,0,0,rule,0,
+P626,1,1,Living organisms and biodiversity,1,1,rule,1,coral|fish
+P627,0,0,,1,1,rule,0,reefs
+P628,0,0,,0,0,rule,0,
+P629,0,0,,0,0,rule,0,water
+P630,0,0,,0,0,rule,0,
+P631,1,1,Living organisms and biodiversity,1,1,rule,1,coral
+P632,0,0,,0,0,rule,0,shores|speed
+P633,0,0,,0,0,rule,0,
+P634,0,0,,0,0,rule,0,
+P635,0,0,,0,0,rule,0,
+P636,0,0,,0,0,rule,0,
+P637,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,1,coral
+P638,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,coral|fish|species|reef
+P639,1,1,Living organisms and biodiversity|Science and technology,1,2,AI contextual review,2,fish|molluscs|species|zoophytes|seaweeds|submarine|light
+P640,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral
+P641,0,0,,1,1,rule,1,cetacean|navigation
+P642,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral
+P643,0,0,,0,0,rule,0,
+P644,1,1,Living organisms and biodiversity,1,1,rule,1,coral
+P645,0,0,,1,1,rule,0,island|islands|rocks
+P646,0,0,,0,0,rule,0,island|vessel
+P647,0,0,,1,1,rule,0,tide
+P648,0,0,,0,0,rule,0,vessel
+P649,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,coral|tides|submarine
+P650,0,0,,0,0,rule,1,
+P651,0,0,,0,0,rule,0,
+P652,0,0,,1,1,rule,0,force
+P653,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P654,1,1,Natural environment and interactions,1,1,rule,1,tides
+P655,1,1,Natural environment and interactions,1,1,rule,1,tides
+P656,0,0,,0,0,rule,0,vessel
+P657,0,0,,0,0,rule,0,
+P658,0,0,,1,1,rule,0,tide
+P659,0,0,,1,1,rule,0,tide
+P660,1,1,Natural environment and interactions,0,0,rule,0,sea|weight
+P661,0,0,,1,1,rule,0,tides
+P662,1,1,Living organisms and biodiversity,0,0,rule,0,animals|island
+P663,0,0,,0,0,rule,0,
+P664,0,0,,0,0,rule,0,
+P665,0,0,,0,0,rule,0,vessel
+P666,1,1,Natural environment and interactions,0,0,rule,0,sea
+P667,0,0,,0,0,rule,0,
+P668,0,0,,0,0,rule,0,
+P669,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P670,0,0,,0,0,rule,0,
+P671,0,0,,0,0,rule,1,island
+P672,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P673,0,0,,0,0,rule,0,
+P674,1,1,Living organisms and biodiversity,1,0,AI contextual review,0,coral|reef
+P675,0,0,,0,0,rule,0,feet
+P676,0,0,,1,2,researcher-reviewed pilot,2,light
+P677,0,0,,0,1,AI contextual review,1,
+P678,0,0,,0,0,rule,0,
+P679,0,0,,0,0,rule,0,
+P680,0,0,,0,0,rule,0,
+P681,0,0,,0,0,rule,0,island
+P682,0,0,,0,0,rule,0,vessel
+P683,1,1,Natural environment and interactions,0,0,rule,0,island|nature
+P684,0,0,,0,0,rule,0,
+P685,0,0,,0,0,rule,0,
+P686,0,0,,0,0,rule,0,
+P687,0,0,,0,0,rule,0,
+P688,0,0,,0,0,rule,0,
+P689,0,0,,0,0,rule,0,island
+P690,0,0,,0,0,rule,0,
+P691,0,0,,0,0,rule,0,
+P692,1,1,Science and technology,1,1,rule,0,experiments
+P693,0,0,,1,1,rule,0,degree
+P694,0,0,,0,0,rule,0,
+P695,0,0,,0,0,rule,0,
+P696,0,0,,0,0,researcher-reviewed pilot,0,
+P697,0,0,,0,0,rule,0,
+P698,0,0,,0,0,rule,0,
+P699,0,0,,0,0,rule,0,
+P700,1,1,Living organisms and biodiversity,1,1,AI contextual review,1,species
+P701,0,0,,0,0,rule,0,shore
+P702,0,0,,0,0,rule,0,life|island
+P703,0,0,,0,0,rule,0,island|shore
+P704,1,1,Living organisms and biodiversity,1,1,AI contextual review,1,species
+P705,0,0,,0,0,rule,0,
+P706,0,0,,0,0,rule,0,
+P707,0,0,,0,0,rule,0,
+P708,0,0,,0,0,rule,0,
+P709,0,0,,0,0,rule,0,
+P710,0,0,,0,0,rule,0,islands
+P711,0,0,,0,0,rule,0,
+P712,0,0,,0,0,rule,0,
+P713,0,0,,0,0,rule,0,island|mountains
+P714,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P715,0,0,,0,0,rule,0,
+P716,1,1,Natural environment and interactions,1,1,rule,1,hunting
+P717,0,0,,0,0,rule,0,
+P718,0,0,,0,0,rule,0,living
+P719,0,0,,0,0,rule,0,
+P720,0,0,,0,0,rule,0,
+P721,0,0,,0,0,rule,0,
+P722,0,0,,0,0,rule,0,
+P723,1,1,Living organisms and biodiversity,2,2,AI contextual review,2,species|light
+P724,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,electric
+P725,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,electric
+P726,0,0,,0,0,rule,0,
+P727,1,1,Living organisms and biodiversity,1,2,AI contextual review,2,species
+P728,0,0,,1,1,rule,0,shore|rock|air|miles
+P729,0,0,,0,0,rule,0,
+P730,0,0,,0,0,rule,0,
+P731,0,0,,0,0,rule,0,feet
+P732,0,0,,0,0,rule,0,
+P733,0,0,,0,0,rule,0,
+P734,0,0,,0,0,rule,0,weight
+P735,0,0,,0,0,rule,0,
+P736,0,0,,0,0,rule,0,feet
+P737,1,1,Natural environment and interactions,0,0,rule,1,sea|shore|water|machine|ship
+P738,0,0,,0,0,rule,0,
+P739,0,0,,0,0,rule,0,
+P740,0,0,,0,0,rule,0,
+P741,0,0,,0,0,rule,0,
+P742,0,0,,0,0,rule,0,
+P743,0,0,,0,0,rule,0,shore
+P744,0,0,,1,1,rule,1,instrument
+P745,0,0,,0,0,rule,0,
+P746,0,0,,0,0,rule,0,island|shore
+P747,1,1,Living organisms and biodiversity,1,1,rule,2,coral
+P748,0,0,,0,0,rule,0,
+P749,0,0,,0,0,rule,0,water
+P750,0,0,,0,0,rule,0,
+P751,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,coral|zoophytes|tide
+P752,1,1,Natural environment and interactions,1,1,rule,1,pearl|light
+P753,0,0,,0,0,rule,1,
+P754,0,0,,0,0,rule,0,
+P755,0,0,,0,0,rule,0,
+P756,0,0,,0,0,rule,1,
+P757,0,0,,0,0,rule,0,
+P758,0,0,,0,0,rule,1,weight
+P759,0,0,,0,0,rule,0,
+P760,0,0,,0,0,rule,0,
+P761,0,0,,0,0,rule,1,life
+P762,0,0,,0,0,rule,0,
+P763,0,0,,2,2,rule,1,degrees
+P764,0,0,,0,0,rule,0,
+P765,0,0,,0,0,rule,0,
+P766,0,0,,0,0,rule,0,deep
+P767,0,0,,0,0,rule,0,
+P768,0,0,,0,0,rule,0,
+P769,1,1,Science and technology,1,1,rule,1,electric
+P770,0,0,,0,0,rule,0,
+P771,0,0,,0,2,researcher-reviewed pilot,2,air
+P772,0,0,,0,0,rule,0,life|island
+P773,1,1,Natural environment and interactions,1,0,researcher-reviewed pilot,0,hunting
+P774,0,0,,0,0,rule,0,
+P775,1,1,Living organisms and biodiversity,1,0,AI contextual review,0,coral|reefs
+P776,0,0,,0,0,rule,0,islands
+P777,1,1,Natural environment and interactions,0,0,rule,0,seas|waters
+P778,0,0,,0,0,rule,1,
+P779,0,0,,0,0,researcher-reviewed pilot,0,
+P780,0,0,,0,0,rule,0,
+P781,0,0,,0,0,rule,0,
+P782,0,0,,0,0,rule,0,
+P783,0,0,,0,0,rule,0,
+P784,0,1,Supplementary science search,1,2,researcher-reviewed pilot,2,atmosphere|oxygen
+P785,0,0,,0,0,rule,0,
+P786,1,1,Living organisms and biodiversity,1,1,rule,1,coral|tide
+P787,1,1,Living organisms and biodiversity,1,1,AI contextual review,1,coral|reef
+P788,0,0,,0,0,rule,0,
+P789,0,0,,0,0,rule,0,ship
+P790,0,0,,1,1,rule,1,force
+P791,0,0,,0,0,rule,0,
+P792,0,0,,0,0,rule,0,
+P793,1,1,Science and technology,2,2,rule,2,current|electricity|force
+P794,0,0,,0,0,rule,0,
+P795,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral|tide
+P796,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,electric|heat|light
+P797,0,0,,2,1,AI contextual review,1,reefs
+P798,1,1,Natural environment and interactions,0,0,rule,0,island|sea
+P799,1,1,Natural environment and interactions,0,0,rule,0,coast|ocean|shores
+P800,0,0,,0,0,rule,0,waters|speed
+P801,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,currents|apparatus|electric|experiments|instruments|thermometer|degree|pressure|resistance
+P802,1,1,Natural environment and interactions,2,2,rule,2,degrees|temperature
+P803,1,1,Science and technology,1,1,rule,1,currents|apparatus|electric
+P804,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,1,AI contextual review,1,fish|electric|light
+P805,0,0,,2,2,rule,1,force|heat|light
+P806,0,0,,0,0,rule,1,water
+P807,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fish|atmosphere|atmospheric
+P808,0,0,,0,0,rule,2,life
+P809,0,0,,0,0,rule,0,life
+P810,1,1,Natural environment and interactions,2,2,rule,1,barometer
+P811,0,0,,0,0,rule,0,water
+P812,1,1,Natural environment and interactions,0,0,rule,0,sea
+P813,0,0,,0,0,rule,0,coast|miles
+P814,1,1,Science and technology,1,1,rule,1,engine
+P815,1,1,Natural environment and interactions,1,1,rule,1,telescope|light
+P816,0,0,,0,0,rule,0,
+P817,0,0,,0,0,rule,1,feet
+P818,0,0,,0,0,rule,0,
+P819,0,0,,0,0,rule,0,
+P820,0,0,,0,0,rule,0,
+P821,0,0,,0,0,rule,0,
+P822,0,0,,0,0,rule,0,
+P823,0,0,,0,0,rule,0,
+P824,0,0,,0,0,rule,0,
+P825,0,0,,0,0,rule,0,
+P826,0,0,,0,0,rule,0,speed
+P827,0,0,,0,0,rule,0,
+P828,0,0,,0,0,rule,0,ship
+P829,0,0,,0,0,rule,0,
+P830,1,1,Natural environment and interactions,1,1,rule,2,ocean|sea|water
+P831,0,0,,0,0,rule,0,
+P832,0,0,,0,0,rule,0,
+P833,0,0,,0,0,rule,0,
+P834,0,0,,0,0,rule,0,
+P835,0,0,,0,0,rule,0,
+P836,0,0,,0,0,rule,0,
+P837,0,0,,1,1,rule,1,instruments
+P838,0,0,,0,0,rule,0,
+P839,0,0,,0,0,rule,0,
+P840,0,0,,0,0,rule,0,
+P841,0,0,,0,0,rule,0,
+P842,0,0,,0,0,rule,0,
+P843,0,0,,0,0,rule,0,
+P844,0,0,,0,0,rule,0,
+P845,0,0,,0,0,rule,0,
+P846,0,0,,0,0,rule,1,
+P847,0,0,,0,0,rule,2,
+P848,1,1,Science and technology,1,1,rule,1,engine
+P849,0,0,,0,0,rule,0,
+P850,0,0,,0,0,rule,0,
+P851,1,1,Science and technology,1,0,AI contextual review,0,electric|light
+P852,0,0,,0,0,rule,0,
+P853,0,0,,0,0,rule,0,
+P854,1,1,Science and technology,1,1,rule,1,submarine
+P855,0,0,,0,0,rule,0,
+P856,0,0,,0,0,rule,0,
+P857,0,0,,1,1,rule,2,light
+P858,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,coral|submarine
+P859,1,1,Living organisms and biodiversity,1,1,rule,2,fish|light
+P860,1,1,Living organisms and biodiversity,2,2,rule,2,coral|zoophyte
+P861,0,0,,1,1,rule,1,light
+P862,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral|mineral
+P863,0,0,,0,0,rule,0,
+P864,1,1,Living organisms and biodiversity|Science and technology,1,1,rule,1,coral|submarine
+P865,0,0,,0,0,rule,0,
+P866,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral
+P867,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P868,1,1,Living organisms and biodiversity,1,1,rule,1,coral|light
+P869,0,0,,0,0,rule,0,
+P870,0,0,,0,0,rule,0,
+P871,1,1,Living organisms and biodiversity,1,1,rule,1,seal
+P872,1,1,Living organisms and biodiversity,1,1,rule,0,sharks
+P873,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,coral
+P874,0,0,,0,0,rule,0,
+P875,0,0,,1,1,rule,1,apparatus
+P876,0,0,,1,1,rule,1,light
+P877,0,0,,0,2,researcher-reviewed pilot,2,
+P878,1,1,Science and technology,2,2,AI contextual review,2,apparatus|electric|submarine|light
+P879,1,1,Natural environment and interactions,1,1,rule,1,ocean|sea|waters|air|deep
+P880,1,1,Natural environment and interactions,0,0,rule,0,aquatic|sea|water
+P881,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P882,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,fish|fishes
+P883,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,2,fish|electrical
+P884,1,1,Living organisms and biodiversity,1,1,rule,2,fish|fishes
+P885,1,1,Living organisms and biodiversity|Science and technology,2,2,AI contextual review,2,coral|fish|species|electric|light
+P886,0,0,,0,0,rule,0,island
+P887,1,1,Natural environment and interactions,2,2,rule,2,thermometer|strata|temperature
+P888,1,1,Natural environment and interactions,1,1,rule,2,cetacean
+P889,0,0,,0,0,rule,0,
+P890,1,1,Natural environment and interactions,0,0,rule,0,ocean|seas
+P891,0,0,,1,1,rule,2,molluscs|light
+P892,0,0,,1,1,rule,2,molluscs|gravity
+P893,0,0,,0,0,rule,0,
+P894,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,sharks
+P895,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,sharks
+P896,1,1,Natural environment and interactions,1,1,rule,1,ocean|sea|waters
+P897,0,0,,0,0,rule,0,
+P898,1,1,Natural environment and interactions,0,0,rule,0,sea
+P899,0,0,,0,0,rule,0,water
+P900,0,0,,0,0,rule,0,
+P901,1,1,Natural environment and interactions,1,1,rule,0,seas|ships|miles
+P902,1,1,Natural environment and interactions,0,0,rule,1,sea
+P903,1,1,Natural environment and interactions,2,2,rule,1,pearl
+P904,0,0,,0,0,rule,0,
+P905,0,0,,1,1,rule,0,pearl
+P906,0,0,,0,0,rule,0,
+P907,0,0,,0,0,rule,1,deep|feet
+P908,0,0,,0,0,rule,0,
+P909,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P910,0,0,,0,0,rule,0,
+P911,0,0,,0,0,rule,0,mountains
+P912,0,0,,0,0,rule,0,
+P913,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,shark|sharks|hunting|submarine
+P914,0,0,,0,0,rule,0,
+P915,0,0,,0,0,rule,0,
+P916,0,0,,0,0,rule,0,
+P917,0,0,,0,0,rule,0,
+P918,0,0,,1,1,rule,0,pearl
+P919,1,1,Natural environment and interactions,1,1,rule,0,fishing
+P920,0,0,,0,0,rule,0,
+P921,1,1,Natural environment and interactions,1,2,researcher-reviewed pilot,2,bivalves|pearl
+P922,0,0,,1,2,researcher-reviewed pilot,2,pearl|pearls
+P923,0,0,,0,0,rule,0,waters
+P924,0,0,,1,1,rule,2,mollusc|pearl
+P925,1,1,Living organisms and biodiversity,1,1,rule,0,sharks
+P926,1,1,Living organisms and biodiversity,1,1,rule,0,pearls|sharks
+P927,0,0,,1,1,rule,0,pearls
+P928,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,seaweed
+P929,0,0,,1,1,rule,0,pearls
+P930,0,0,,2,2,rule,2,mollusc|pearls
+P931,1,1,Natural environment and interactions,0,0,rule,0,sea|water
+P932,1,1,Living organisms and biodiversity,1,0,researcher-reviewed pilot,0,sharks
+P933,0,0,,1,1,rule,1,light
+P934,1,1,Natural environment and interactions,1,1,rule,1,fishing
+P935,1,1,Living organisms and biodiversity,1,1,rule,0,sharks
+P936,0,0,,0,0,rule,0,
+P937,1,1,Living organisms and biodiversity,1,1,rule,0,sharks
+P938,0,0,,0,0,rule,0,
+P939,1,1,Science and technology,1,1,rule,1,apparatus|submarine
+P940,0,0,,0,0,rule,0,
+P941,0,0,,1,1,rule,0,pearls
+P942,0,0,,0,0,rule,0,
+P943,0,0,,1,1,rule,1,velocity
+P944,0,0,,0,0,rule,0,
+P945,1,1,Natural environment and interactions,1,1,AI contextual review,1,coast|island|sea|water|miles
+P946,0,0,,0,0,rule,0,deep
+P947,1,1,Natural environment and interactions,1,1,rule,1,fishing
+P948,1,1,Natural environment and interactions,0,0,rule,0,sea
+P949,0,0,,1,1,rule,1,apparatus
+P950,1,1,Science and technology,1,1,AI contextual review,1,electric|light
+P951,0,0,,0,0,rule,0,
+P952,0,0,,0,0,rule,0,
+P953,0,0,,0,0,rule,0,
+P954,0,0,,0,0,rule,1,water|air
+P955,1,1,Living organisms and biodiversity,1,1,rule,2,fish
+P956,1,1,Natural environment and interactions,2,2,rule,2,molluscs|zoophytes|degrees
+P957,0,0,,0,0,rule,0,living
+P958,0,0,,1,1,rule,1,pearl
+P959,1,1,Natural environment and interactions,1,1,rule,2,nature|sea|machine|rocks|feet
+P960,1,1,Science and technology,2,2,AI contextual review,2,mollusc|submarine|light
+P961,0,0,,2,2,rule,2,bivalve|mollusc|pearl
+P962,0,0,,0,0,rule,0,rock|deep
+P963,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,sharks
+P964,0,0,,1,1,rule,1,apparatus
+P965,1,1,Natural environment and interactions,1,1,rule,0,pearl|fishing
+P966,1,1,Natural environment and interactions,1,1,rule,1,fishing
+P967,1,1,Living organisms and biodiversity,1,1,rule,2,shark
+P968,1,1,Living organisms and biodiversity,1,2,researcher-reviewed pilot,2,shark
+P969,1,1,Living organisms and biodiversity,1,1,rule,0,shark
+P970,1,1,Living organisms and biodiversity,1,1,rule,0,shark
+P971,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,shark
+P972,1,1,Living organisms and biodiversity,1,1,rule,0,shark
+P973,0,0,,0,0,rule,0,
+P974,1,1,Living organisms and biodiversity,1,1,rule,1,shark
+P975,1,1,Living organisms and biodiversity,1,1,rule,1,shark
+P976,0,0,,0,0,rule,0,
+P977,0,0,,0,0,rule,0,
+P978,1,1,Living organisms and biodiversity,1,1,rule,0,shark
+P979,0,0,,1,1,rule,0,pearls|degrees
+P980,0,0,,0,0,rule,0,
+P981,0,0,,0,0,rule,0,
+P982,0,0,,0,0,rule,0,
+P983,0,0,,0,0,rule,0,
+P984,1,1,Living organisms and biodiversity|Natural environment and interactions,1,2,AI contextual review,2,shark|species
+P985,0,0,,0,0,rule,1,
+P986,0,0,,0,0,rule,0,
+P987,1,1,Natural environment and interactions,0,0,rule,0,sea
+P988,0,0,,0,0,rule,0,
+P989,0,0,,0,0,rule,0,
+P990,0,0,,1,1,rule,0,island|islands|miles|speed
+P991,1,1,Natural environment and interactions,0,0,rule,0,seas|miles
+P992,1,1,Natural environment and interactions,0,0,rule,0,ocean|sea
+P993,0,0,,0,0,rule,0,
+P994,1,1,Natural environment and interactions,0,0,rule,0,sea
+P995,1,1,Natural environment and interactions,0,0,rule,0,sea
+P996,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P997,0,0,,0,0,rule,0,
+P998,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P999,1,1,Natural environment and interactions,0,0,rule,0,sea|depths
+P1000,1,1,Natural environment and interactions,0,0,rule,0,sea|rocks
+P1001,1,1,Natural environment and interactions,1,1,rule,1,coast|sea|waters|mountains|miles
+P1002,0,0,,0,0,rule,0,coast
+P1003,0,0,,0,0,rule,0,
+P1004,0,0,,0,0,rule,0,
+P1005,1,1,Natural environment and interactions,1,1,rule,1,island|sea|waters|miles|speed
+P1006,1,1,Natural environment and interactions,0,0,rule,0,sea|vessel|speed
+P1007,0,0,,0,0,researcher-reviewed pilot,0,miles
+P1008,1,1,Living organisms and biodiversity|Natural environment and interactions|Earth and geosciences,2,2,researcher-reviewed pilot,2,algæ|coral|zoophytes|volcanic
+P1009,1,1,Science and technology,1,1,rule,2,electric|submarine
+P1010,1,1,Natural environment and interactions,1,1,rule,1,coast|sea|miles
+P1011,0,0,,0,0,rule,0,
+P1012,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,coral|fishes|zoophytes
+P1013,0,0,,0,0,rule,0,
+P1014,1,1,Natural environment and interactions,1,1,rule,1,currents
+P1015,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1016,1,1,Natural environment and interactions,0,0,rule,0,islands|sea|vessels|sandbanks|depths
+P1017,0,0,,0,0,rule,0,
+P1018,0,0,,1,1,rule,0,steam
+P1019,0,0,,0,0,rule,0,
+P1020,1,1,Natural environment and interactions,1,1,rule,1,navigation
+P1021,1,1,Natural environment and interactions,1,1,rule,1,currents|instruments|steam
+P1022,1,1,Natural environment and interactions,1,1,rule,1,steam
+P1023,0,0,,0,0,rule,0,
+P1024,0,0,,0,0,rule,0,
+P1025,0,0,,0,0,rule,0,
+P1026,1,1,Natural environment and interactions,0,0,rule,0,sea|waters
+P1027,0,0,,0,0,rule,0,
+P1028,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1029,1,1,Living organisms and biodiversity,1,1,rule,0,seaweed
+P1030,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1031,0,0,,0,0,rule,0,water
+P1032,0,0,,0,0,rule,0,water
+P1033,1,1,Natural environment and interactions,1,1,rule,1,instruments|light
+P1034,0,0,,0,0,rule,0,vessel
+P1035,1,1,Natural environment and interactions,2,2,rule,1,tide
+P1036,1,1,Natural environment and interactions,0,0,rule,0,island|seas
+P1037,0,0,,1,1,rule,0,energy
+P1038,0,0,,0,0,rule,0,
+P1039,0,0,,0,0,rule,0,
+P1040,0,0,,0,0,rule,0,
+P1041,0,0,,0,0,rule,0,
+P1042,0,0,,0,0,rule,0,speed
+P1043,0,0,,0,0,rule,0,
+P1044,0,0,,0,0,rule,0,
+P1045,1,1,Natural environment and interactions,0,0,rule,0,nature
+P1046,0,0,,0,0,rule,0,
+P1047,0,0,,0,0,rule,0,rock|depth
+P1048,0,0,,0,0,rule,0,
+P1049,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,fish|fishes|current
+P1050,1,1,Natural environment and interactions,1,1,rule,1,coast|sea|water|vessels
+P1051,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,navigation|submarine
+P1052,0,0,,0,0,rule,0,coast
+P1053,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1054,0,0,,0,0,rule,0,
+P1055,0,0,,0,0,rule,1,
+P1056,0,0,,0,0,rule,0,water
+P1057,1,1,Natural environment and interactions,0,0,rule,0,sea|sandbank
+P1058,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,0,animal|sea
+P1059,0,0,,0,0,rule,0,
+P1060,0,0,,0,0,rule,0,
+P1061,0,0,,1,1,rule,1,cetacean
+P1062,0,0,,0,0,rule,0,
+P1063,0,0,,0,0,rule,0,
+P1064,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P1065,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whales
+P1066,0,0,,0,0,rule,0,miles
+P1067,1,1,Living organisms and biodiversity,1,1,rule,2,cetacean|whale
+P1068,0,0,,0,0,rule,2,
+P1069,0,0,,0,0,rule,0,
+P1070,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P1071,0,0,,1,1,rule,0,force
+P1072,0,0,,0,0,rule,0,
+P1073,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P1074,0,0,,0,0,rule,0,
+P1075,0,0,,0,0,rule,0,
+P1076,0,0,,0,0,rule,0,
+P1077,1,1,Living organisms and biodiversity,0,0,rule,0,animal
+P1078,0,0,,0,0,rule,0,
+P1079,0,0,,0,0,rule,0,air|feet
+P1080,1,1,Living organisms and biodiversity,0,0,rule,2,animal|water
+P1081,1,1,Living organisms and biodiversity,0,0,rule,1,animal
+P1082,0,0,,0,0,rule,0,
+P1083,1,1,Living organisms and biodiversity|Natural environment and interactions,1,2,AI contextual review,2,species
+P1084,0,0,,0,0,rule,0,
+P1085,0,0,,0,0,rule,0,mountain
+P1086,0,0,,1,1,rule,1,shore|waters|rocks
+P1087,1,1,Science and technology,1,1,AI contextual review,1,electric
+P1088,0,0,,0,0,rule,0,vessel|air
+P1089,0,0,,1,1,rule,1,light
+P1090,0,0,,1,1,rule,1,light
+P1091,0,0,,0,0,rule,0,
+P1092,0,0,,1,1,rule,1,light
+P1093,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1094,1,1,Science and technology,1,1,rule,1,electric|machinery
+P1095,0,0,,0,0,rule,0,coast
+P1096,0,0,,0,0,rule,0,
+P1097,1,1,Living organisms and biodiversity,1,1,rule,1,coral|zoophytes|seaweed
+P1098,1,1,Natural environment and interactions,1,1,rule,2,machinery|resistance
+P1099,1,1,Science and technology,1,0,AI contextual review,0,electric|light
+P1100,0,0,,0,0,rule,0,
+P1101,0,0,,0,0,rule,0,
+P1102,1,1,Natural environment and interactions,0,0,rule,0,sea|miles
+P1103,0,0,,0,0,rule,0,
+P1104,0,0,,0,0,rule,0,
+P1105,1,1,Natural environment and interactions,0,0,rule,0,coast|sea
+P1106,0,0,,0,0,rule,0,
+P1107,0,0,,0,0,rule,0,
+P1108,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1109,0,0,,0,0,rule,0,
+P1110,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,apparatus|submarine
+P1111,0,0,,0,0,rule,0,
+P1112,0,0,,0,0,rule,0,
+P1113,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1114,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1115,0,0,,0,0,rule,0,
+P1116,0,0,,0,0,rule,0,
+P1117,1,1,Natural environment and interactions,0,0,rule,0,seas|water|air
+P1118,0,0,,0,0,rule,0,
+P1119,0,0,,0,0,rule,0,
+P1120,0,0,,0,0,rule,0,
+P1121,0,0,,0,0,rule,0,
+P1122,0,0,,0,0,rule,0,
+P1123,0,0,,0,0,rule,0,
+P1124,0,0,,0,0,rule,0,
+P1125,0,0,,0,0,rule,0,
+P1126,0,0,,0,0,rule,0,coast
+P1127,0,0,,0,0,rule,0,water|vessel
+P1128,0,0,,0,0,rule,0,water
+P1129,0,0,,0,0,rule,0,
+P1130,0,0,,0,0,rule,0,
+P1131,0,0,,0,0,rule,0,
+P1132,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1133,0,0,,0,0,rule,0,
+P1134,1,1,Natural environment and interactions,1,1,rule,0,coast|seas|waters|vessels|depths
+P1135,0,0,,0,0,rule,0,island
+P1136,0,0,,0,0,rule,0,island
+P1137,1,1,Living organisms and biodiversity,1,1,rule,0,fishes
+P1138,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P1139,0,0,,0,0,rule,1,living|waters
+P1140,0,0,,0,0,rule,0,
+P1141,0,0,,0,0,rule,0,
+P1142,0,0,,0,0,rule,0,water
+P1143,0,0,,0,0,rule,0,island|water
+P1144,0,0,,0,0,rule,0,
+P1145,0,0,,0,0,rule,0,
+P1146,0,0,,0,0,rule,0,
+P1147,0,0,,0,0,rule,0,weight
+P1148,0,0,,0,0,rule,0,
+P1149,0,0,,0,0,rule,0,
+P1150,0,0,,0,0,rule,0,
+P1151,0,0,,0,0,rule,0,depths
+P1152,0,0,,0,0,rule,0,
+P1153,0,0,,0,0,researcher-reviewed pilot,0,
+P1154,0,0,,0,0,rule,0,
+P1155,0,0,,1,1,rule,0,degree
+P1156,0,1,Supplementary science search,2,2,rule,1,atmospheric|heat|temperature
+P1157,0,1,Supplementary science search,1,1,rule,1,temperature
+P1158,0,0,,1,1,rule,1,thermometer
+P1159,0,0,,0,0,rule,0,
+P1160,0,0,,0,0,rule,0,
+P1161,0,0,,0,0,rule,0,
+P1162,1,1,Natural environment and interactions,1,1,rule,1,heat
+P1163,1,1,Science and technology|Earth and geosciences,1,1,rule,1,submarine|eruption
+P1164,0,0,,0,0,rule,0,islands
+P1165,1,1,Natural environment and interactions|Earth and geosciences,2,2,rule,2,felspar|lava|volcanic
+P1166,0,0,,0,0,rule,0,
+P1167,0,0,,0,0,rule,0,islands
+P1168,1,1,Natural environment and interactions|Science and technology,1,2,AI contextual review,2,electricity|heat
+P1169,0,0,,0,0,rule,0,water
+P1170,1,1,Natural environment and interactions,0,0,rule,0,sea|air
+P1171,0,0,,0,0,rule,0,depth
+P1172,1,1,Natural environment and interactions,0,0,rule,0,sea|mountains|air
+P1173,1,1,Natural environment and interactions,0,0,rule,0,sea|shores|waters|speed
+P1174,1,1,Natural environment and interactions,0,0,rule,0,seas|shores
+P1175,0,0,,1,1,rule,1,compass
+P1176,0,0,,0,0,rule,0,
+P1177,1,1,Natural environment and interactions,1,1,rule,1,coast|sea|water|depth
+P1178,1,1,Science and technology,1,1,rule,1,submarine
+P1179,0,0,,1,0,AI contextual review,0,reef
+P1180,0,0,,0,0,rule,0,
+P1181,0,0,,0,0,rule,0,
+P1182,0,0,,1,1,rule,1,geological
+P1183,1,1,Earth and geosciences,1,1,rule,0,volcanic
+P1184,0,0,,0,0,researcher-reviewed pilot,0,
+P1185,0,1,Supplementary science search,2,2,rule,1,strata|degrees|force|heat|temperature
+P1186,0,0,,1,1,rule,0,heat
+P1187,0,0,,1,1,rule,0,heat
+P1188,0,0,,0,0,rule,0,
+P1189,0,0,,0,0,rule,0,speed
+P1190,1,1,Natural environment and interactions,1,1,rule,1,sea|depth|depths
+P1191,1,1,Natural environment and interactions,2,2,rule,2,current|currents|equilibrium|volume
+P1192,1,1,Natural environment and interactions,1,1,rule,0,ocean|shores|water|vessels|miles
+P1193,0,0,,0,0,rule,0,water
+P1194,1,1,Natural environment and interactions,1,1,rule,1,sea|rock|air|miles
+P1195,0,0,,0,0,rule,0,air
+P1196,0,0,,0,0,rule,0,
+P1197,0,0,,0,0,rule,0,
+P1198,1,1,Natural environment and interactions,0,0,rule,0,coast|seas
+P1199,0,0,,0,0,rule,0,
+P1200,0,0,,0,0,rule,0,
+P1201,0,0,,0,1,researcher-reviewed pilot,1,coast|miles
+P1202,1,1,Science and technology,0,0,researcher-reviewed pilot,0,engineers|ship
+P1203,0,0,,0,0,rule,0,miles
+P1204,0,0,,0,0,rule,0,
+P1205,0,0,,0,0,rule,1,
+P1206,1,1,Science and technology,1,1,rule,1,submarine
+P1207,0,0,,0,0,rule,0,
+P1208,0,0,,1,1,rule,1,compass
+P1209,0,0,,0,0,rule,0,
+P1210,0,0,,0,0,rule,0,
+P1211,0,0,,0,0,rule,0,island
+P1212,0,0,,0,0,rule,0,
+P1213,0,0,,0,0,rule,0,
+P1214,1,1,Natural environment and interactions,0,0,rule,0,life|nature|ocean|waters
+P1215,0,0,,0,0,rule,0,
+P1216,0,0,,0,0,researcher-reviewed pilot,0,
+P1217,0,0,,1,1,rule,1,compass
+P1218,1,1,Natural environment and interactions,0,0,rule,0,sea|deep
+P1219,0,0,,0,0,rule,0,
+P1220,0,0,,1,1,rule,1,light
+P1221,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P1222,0,0,,0,0,rule,0,
+P1223,0,0,,0,0,rule,0,
+P1224,0,0,,0,0,rule,0,
+P1225,0,0,,0,0,rule,0,
+P1226,0,0,,0,0,rule,0,
+P1227,0,0,,0,0,rule,0,
+P1228,0,0,,0,0,rule,0,
+P1229,0,0,,1,1,rule,0,waters|ships|vessels
+P1230,0,0,,0,0,rule,0,coast
+P1231,0,0,,0,0,rule,0,
+P1232,0,0,,0,0,rule,0,
+P1233,0,0,,0,0,rule,0,
+P1234,0,0,,0,0,rule,0,
+P1235,0,0,,0,0,rule,0,vessels
+P1236,0,0,,0,0,rule,0,
+P1237,0,0,,0,0,rule,0,
+P1238,0,0,,0,0,rule,0,
+P1239,1,1,Science and technology,1,1,AI contextual review,1,electric|light
+P1240,0,0,,0,0,rule,0,
+P1241,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1242,0,0,,0,0,rule,0,waters
+P1243,1,1,Science and technology,1,1,rule,1,submarine
+P1244,0,0,,0,0,rule,0,
+P1245,0,0,,0,0,rule,0,
+P1246,0,0,,0,0,rule,0,
+P1247,0,0,,0,0,rule,0,
+P1248,0,0,,0,0,rule,0,
+P1249,0,0,,0,0,rule,0,
+P1250,1,1,Natural environment and interactions,0,0,rule,0,sea|waters
+P1251,0,0,,0,0,rule,0,
+P1252,0,0,,0,0,rule,0,vessel
+P1253,1,1,Natural environment and interactions,0,0,rule,0,ocean
+P1254,0,0,,0,0,rule,0,
+P1255,0,0,,0,0,researcher-reviewed pilot,0,
+P1256,0,0,,1,1,rule,1,compass
+P1257,1,1,Natural environment and interactions,0,0,rule,1,ocean|sea|ship|vessel
+P1258,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1259,0,0,,0,0,rule,0,coast
+P1260,0,0,,1,1,rule,0,degree
+P1261,0,0,,0,0,rule,0,
+P1262,1,1,Science and technology,1,1,rule,1,submarine
+P1263,0,0,,0,0,rule,0,mountain
+P1264,0,0,,0,0,rule,0,
+P1265,0,0,,0,0,rule,0,ship
+P1266,1,1,Science and technology,1,1,AI contextual review,1,electric
+P1267,0,0,,2,2,rule,1,apparatus|light
+P1268,0,1,Supplementary science search,1,1,rule,2,atmosphere
+P1269,1,1,Natural environment and interactions,1,1,rule,2,zoophytes
+P1270,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine|degree|light
+P1271,0,0,,1,1,rule,1,light
+P1272,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1273,0,0,,0,0,rule,0,mountain
+P1274,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,2,fishes|seaweed|submarine|light
+P1275,0,0,,0,0,rule,0,depth|feet
+P1276,0,1,Supplementary science search,1,1,rule,1,equilibrium|gravitation|pressure
+P1277,1,1,Living organisms and biodiversity,1,1,rule,2,fishes
+P1278,1,1,Natural environment and interactions,1,1,rule,1,zoophytes
+P1279,0,0,,0,0,rule,0,mountain
+P1280,0,0,,0,0,rule,0,rock
+P1281,1,1,Earth and geosciences,1,1,rule,1,volcano
+P1282,1,1,Science and technology|Earth and geosciences,2,2,researcher-reviewed pilot,2,submarine|crater|lava|volcano|heat|oxygen
+P1283,1,1,Earth and geosciences,1,2,researcher-reviewed pilot,2,currents|eruption|lava|gases
+P1284,1,1,Natural environment and interactions,0,0,rule,1,ocean|waters|vessels
+P1285,1,1,Earth and geosciences,1,1,rule,0,basalt
+P1286,0,0,,1,1,rule,1,light
+P1287,0,0,,1,1,rule,2,geological
+P1288,1,1,Earth and geosciences,1,1,rule,2,lava
+P1289,1,1,Natural environment and interactions,1,0,AI contextual review,0,mineral|light
+P1290,0,0,,1,1,rule,1,instruments
+P1291,1,1,Living organisms and biodiversity,2,2,AI contextual review,2,fishes|sharks|species
+P1292,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,fish
+P1293,1,1,Natural environment and interactions|Earth and geosciences,2,2,researcher-reviewed pilot,2,basalt|lava|degrees
+P1294,1,1,Natural environment and interactions,0,0,rule,1,ocean|sea
+P1295,0,0,,0,0,rule,0,
+P1296,0,0,,1,1,rule,1,light
+P1297,1,1,Natural environment and interactions,1,1,rule,1,light
+P1298,1,1,Natural environment and interactions|Earth and geosciences,1,1,rule,1,volcano
+P1299,1,1,Earth and geosciences,1,1,rule,1,volcano
+P1300,1,1,Earth and geosciences,1,1,rule,1,crater|lava
+P1301,1,1,Natural environment and interactions,0,0,rule,0,islands|sea|vessels|sandbank
+P1302,0,0,,0,0,rule,0,
+P1303,1,1,Natural environment and interactions|Science and technology,1,1,rule,2,electricity|geological
+P1304,1,1,Earth and geosciences,1,1,rule,1,crater|volcano
+P1305,1,1,Science and technology,1,1,rule,1,submarine
+P1306,0,0,,0,0,rule,0,mountain
+P1307,0,0,,0,0,rule,0,
+P1308,1,1,Science and technology|Earth and geosciences,2,2,AI contextual review,2,electric|felspar|volcanic|degrees|light
+P1309,1,1,Natural environment and interactions|Earth and geosciences,1,1,rule,0,volcanic
+P1310,1,1,Earth and geosciences,1,1,rule,1,crater|lava
+P1311,0,0,,0,0,rule,0,waters
+P1312,1,1,Natural environment and interactions|Earth and geosciences,1,1,rule,1,volcano
+P1313,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1314,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1315,1,1,Natural environment and interactions|Earth and geosciences,2,2,rule,2,basalt|crater|lava|mineral|volcanic|light
+P1316,0,0,,0,0,rule,0,rocks
+P1317,0,0,,1,1,rule,2,degrees
+P1318,0,0,,0,0,rule,0,
+P1319,0,0,,0,0,rule,0,
+P1320,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology|Earth and geosciences,2,2,researcher-reviewed pilot,2,submarine|crater|volcano|atmosphere
+P1321,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,current|gulf stream|seaweed
+P1322,1,1,Natural environment and interactions,0,0,rule,2,nature|water|ships|vessels|mountains
+P1323,1,1,Natural environment and interactions,0,0,rule,2,sea
+P1324,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,fish|submarine|force
+P1325,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,whale|navigation|submarine|force|pressure
+P1326,0,1,Supplementary science search,2,2,rule,2,pressure|resistance
+P1327,0,0,,0,0,rule,0,life|rocks|deep
+P1328,0,0,,0,0,rule,0,
+P1329,1,1,Science and technology,1,1,researcher-reviewed pilot,1,submarine
+P1330,1,1,Science and technology,1,2,AI contextual review,2,electricity|instrument|force|light
+P1331,0,1,Supplementary science search,1,1,rule,1,pressure
+P1332,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,fish
+P1333,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1334,0,0,,0,0,rule,0,
+P1335,0,0,,0,0,rule,0,
+P1336,0,0,,0,0,rule,0,
+P1337,0,0,,0,0,rule,0,vessel
+P1338,0,0,,0,0,rule,0,
+P1339,0,0,,0,0,rule,2,vessel|air
+P1340,0,0,,0,0,rule,0,
+P1341,0,0,,0,0,rule,0,
+P1342,0,1,Supplementary science search,2,2,researcher-reviewed pilot,2,oxygen
+P1343,0,0,,0,0,rule,0,air
+P1344,0,0,,0,0,rule,0,
+P1345,0,0,,0,0,rule,0,
+P1346,1,1,Natural environment and interactions,0,0,rule,0,life|sea
+P1347,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whales
+P1348,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whale
+P1349,1,1,Natural environment and interactions,1,1,rule,0,steam
+P1350,1,1,Natural environment and interactions,1,0,researcher-reviewed pilot,0,fishing
+P1351,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P1352,0,0,,0,0,rule,0,
+P1353,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,1,whale|whales
+P1354,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whale
+P1355,0,0,,0,0,rule,0,
+P1356,0,0,,0,0,rule,0,feet
+P1357,1,1,Natural environment and interactions,1,1,researcher-reviewed pilot,1,cetaceans
+P1358,1,1,Living organisms and biodiversity,2,2,rule,2,whales
+P1359,1,1,Living organisms and biodiversity,1,1,rule,2,whale
+P1360,1,1,Natural environment and interactions,0,0,rule,0,ocean|water
+P1361,1,1,Living organisms and biodiversity,1,1,rule,1,seaweed
+P1362,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1363,1,1,Living organisms and biodiversity,1,1,rule,2,whale
+P1364,0,0,,0,0,rule,0,
+P1365,0,0,,0,0,rule,0,
+P1366,0,0,,0,0,rule,0,waters
+P1367,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,0,whales
+P1368,0,0,,0,0,rule,0,
+P1369,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P1370,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1371,1,1,Living organisms and biodiversity,1,1,rule,1,whale
+P1372,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,whale
+P1373,1,1,Living organisms and biodiversity,1,1,rule,0,whales
+P1374,1,1,Living organisms and biodiversity,0,0,rule,0,animals
+P1375,1,1,Living organisms and biodiversity,1,1,rule,0,whales
+P1376,0,0,,0,0,rule,0,
+P1377,0,0,,0,0,rule,0,
+P1378,0,0,,0,0,rule,1,
+P1379,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,cetacean|fish|whale|whales|apparatus|engine
+P1380,0,0,,0,0,rule,0,
+P1381,0,0,,0,0,rule,0,
+P1382,0,0,,0,0,rule,0,
+P1383,1,1,Living organisms and biodiversity,1,1,rule,2,cetacean|whale
+P1384,1,1,Natural environment and interactions,2,2,rule,1,atmosphere|light
+P1385,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,seal|seals|apparatus|electric|thermometer|temperature
+P1386,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,apparatus|compass|electricity|temperature
+P1387,1,1,Natural environment and interactions,2,2,rule,1,degree
+P1388,0,0,,0,0,rule,0,
+P1389,0,0,,0,0,rule,0,
+P1390,0,0,,0,0,rule,0,
+P1391,0,0,,0,0,rule,0,
+P1392,0,0,,0,0,rule,0,
+P1393,0,0,,0,0,rule,0,
+P1394,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1395,0,0,,0,0,rule,0,
+P1396,0,0,,0,0,rule,0,
+P1397,0,0,,0,0,rule,0,
+P1398,1,1,Natural environment and interactions,0,0,rule,0,sea|vessel
+P1399,1,1,Natural environment and interactions,1,1,rule,1,degree|density
+P1400,1,1,Natural environment and interactions,1,1,rule,1,sea|mountains|feet
+P1401,1,1,Natural environment and interactions,1,1,rule,1,degrees|temperature
+P1402,0,0,,0,0,rule,0,air
+P1403,0,1,Supplementary science search,1,1,rule,1,oxygen
+P1404,0,0,,0,0,rule,0,
+P1405,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1406,0,0,,0,0,rule,0,
+P1407,1,1,Natural environment and interactions,0,0,rule,0,ocean|sea
+P1408,0,0,,0,0,rule,0,
+P1409,1,1,Natural environment and interactions,2,2,rule,2,apparatus|compass|thermometer|atmosphere|degree|degrees|pressure|temperature
+P1410,0,0,,0,0,rule,0,
+P1411,1,1,Natural environment and interactions,2,2,researcher-reviewed pilot,2,degrees
+P1412,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,fishes|electric|submarine|atmosphere|degrees|oxygen
+P1413,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fishes|thermometer
+P1414,0,0,,0,0,rule,0,
+P1415,0,0,,0,0,rule,0,
+P1416,0,0,,0,0,rule,0,
+P1417,1,1,Natural environment and interactions,2,2,rule,2,instruments
+P1418,0,0,,0,0,rule,0,
+P1419,0,0,,0,0,rule,0,
+P1420,0,0,,0,0,rule,0,rock
+P1421,1,1,Living organisms and biodiversity|Natural environment and interactions|Earth and geosciences,2,2,AI contextual review,2,molluscs|whale|craters|lava|volcanic|volcano
+P1422,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,coral
+P1423,1,1,Natural environment and interactions,0,0,rule,1,nature
+P1424,1,1,Natural environment and interactions,0,0,rule,0,sea|rock
+P1425,0,0,,1,1,rule,0,atmospheric
+P1426,1,1,Living organisms and biodiversity|Natural environment and interactions|Earth and geosciences,2,2,rule,1,mammals|seals|thermometer|basalt|crater|lava|volcanic|light
+P1427,0,0,,0,0,rule,0,
+P1428,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,cetaceans|mammal|mammals|seal|seals|species|fishing
+P1429,1,1,Natural environment and interactions,1,1,rule,0,fishing
+P1430,0,0,,0,0,rule,0,miles
+P1431,0,0,,0,0,rule,0,rocks
+P1432,0,0,,1,1,rule,0,equilibrium
+P1433,0,0,,0,0,rule,0,
+P1434,1,1,Living organisms and biodiversity|Earth and geosciences,2,2,rule,1,instruments|basalt
+P1435,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1436,0,0,,1,1,rule,1,instruments
+P1437,0,0,,0,0,rule,0,
+P1438,0,0,,0,0,rule,0,
+P1439,0,0,,0,0,rule,0,
+P1440,0,0,,0,0,rule,0,shore
+P1441,0,0,,0,0,rule,0,shore
+P1442,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,mammals|seals|whale|whales|barometer|instruments|telescope
+P1443,1,1,Natural environment and interactions|Earth and geosciences,2,2,researcher-reviewed pilot,2,cetacean|barometer|basalt|lava|atmosphere|degrees
+P1444,0,0,,0,0,rule,0,
+P1445,0,0,,1,1,rule,0,degrees
+P1446,0,0,,1,1,rule,0,degree
+P1447,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1448,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1449,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,mammals|seals|whales|thermometer
+P1450,0,0,,0,0,rule,0,
+P1451,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1452,0,0,,0,0,rule,1,depth
+P1453,1,1,Natural environment and interactions,1,1,rule,2,compass
+P1454,1,1,Natural environment and interactions,1,1,rule,1,equilibrium
+P1455,0,0,,0,0,rule,0,
+P1456,0,0,,1,1,rule,1,force|gravity
+P1457,0,0,,1,1,rule,1,equilibrium
+P1458,0,0,,0,0,rule,1,
+P1459,0,0,,0,0,rule,1,feet
+P1460,1,1,Natural environment and interactions,0,0,rule,1,sea
+P1461,1,1,Natural environment and interactions,2,2,rule,1,degrees|light
+P1462,0,0,,0,0,rule,0,
+P1463,0,0,,0,0,rule,0,
+P1464,0,0,,0,0,rule,0,
+P1465,0,0,,0,0,rule,0,
+P1466,0,0,,0,0,rule,0,speed
+P1467,1,1,Science and technology,1,1,rule,1,navigation|submarine
+P1468,0,0,,0,0,rule,0,
+P1469,0,0,,0,0,rule,0,
+P1470,0,0,,0,0,rule,0,speed
+P1471,0,0,,0,0,rule,0,
+P1472,0,0,,0,0,rule,0,
+P1473,0,0,,0,0,rule,0,
+P1474,1,1,Science and technology,1,1,rule,1,submarine
+P1475,0,0,,0,0,rule,0,
+P1476,0,0,,2,2,rule,1,compass|instruments
+P1477,0,0,,0,0,rule,0,
+P1478,0,0,,0,0,rule,0,air
+P1479,0,0,,0,0,rule,1,
+P1480,0,1,Supplementary science search,1,1,rule,0,atmosphere
+P1481,0,0,,0,0,rule,0,
+P1482,0,0,,0,0,rule,0,
+P1483,0,0,,0,0,rule,1,water|depth
+P1484,0,0,,1,1,rule,0,energy
+P1485,0,0,,0,0,rule,0,
+P1486,0,0,,0,0,rule,0,
+P1487,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,engine|acid|atmosphere|carbonic|energy|gravity|pressure
+P1488,0,1,Supplementary science search,1,1,rule,1,degrees|temperature
+P1489,0,0,,1,0,researcher-reviewed pilot,0,energy
+P1490,0,0,,0,0,rule,0,
+P1491,0,1,Supplementary science search,2,2,rule,2,apparatus|acid|atmosphere|carbonic|chemical|gas|oxygen
+P1492,0,0,,0,0,rule,0,water
+P1493,0,1,Supplementary science search,1,1,rule,1,pressure
+P1494,0,0,,0,0,rule,0,water
+P1495,0,1,Supplementary science search,1,1,rule,1,pressure|resistance
+P1496,1,1,Natural environment and interactions,1,1,rule,2,nature|water|feet
+P1497,0,0,,0,0,rule,2,air
+P1498,0,0,,0,0,rule,0,
+P1499,1,1,Natural environment and interactions,0,0,rule,0,seas|air
+P1500,0,1,Supplementary science search,1,1,rule,1,temperature
+P1501,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,electric|thermometer|degree|heat
+P1502,0,0,,0,0,rule,0,
+P1503,0,0,,0,0,rule,0,
+P1504,1,1,Natural environment and interactions,2,2,rule,2,temperature
+P1505,0,0,,1,1,rule,2,degree
+P1506,0,0,,0,0,rule,2,air
+P1507,0,0,,1,1,rule,1,apparatus
+P1508,1,1,Natural environment and interactions,0,0,rule,2,sea|air
+P1509,0,0,,1,1,rule,0,energy|force
+P1510,0,0,,1,1,rule,1,gravity
+P1511,0,0,,0,0,rule,1,water|weight
+P1512,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,electric|force
+P1513,0,1,Supplementary science search,2,2,rule,2,apparatus|atmosphere|equilibrium
+P1514,1,1,Natural environment and interactions,0,0,rule,2,sea|air
+P1515,0,1,Supplementary science search,1,1,rule,1,oxygen
+P1516,1,1,Living organisms and biodiversity,1,1,rule,0,shark
+P1517,0,0,,0,0,rule,0,life
+P1518,0,0,,0,0,rule,0,
+P1519,0,0,,0,0,rule,0,
+P1520,0,0,,0,2,researcher-reviewed pilot,2,
+P1521,1,1,Natural environment and interactions,0,0,rule,0,ocean|seas|ship
+P1522,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,AI contextual review,2,coral|fish|molluscs|seals|seaweeds|submarine
+P1523,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fish
+P1524,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,submarine|geological
+P1525,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,AI contextual review,2,fish|molluscs|sharks|species|zoophytes|current|fishing
+P1526,1,1,Living organisms and biodiversity,2,2,AI contextual review,2,fish|species|light
+P1527,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,2,fish
+P1528,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,fish|seals|electric|submarine
+P1529,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,1,fish|seals|whales
+P1530,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,seaweeds|tides|submarine
+P1531,0,0,,0,0,rule,0,
+P1532,0,0,,0,0,rule,0,vessel|air
+P1533,1,1,Living organisms and biodiversity|Natural environment and interactions,0,0,rule,1,animal|island|sea|vessels|rock
+P1534,1,1,Living organisms and biodiversity,2,2,AI contextual review,2,cetaceans|species
+P1535,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,fish
+P1536,1,1,Living organisms and biodiversity,1,1,rule,2,mollusc
+P1537,0,0,,0,0,rule,0,
+P1538,0,0,,0,0,rule,0,
+P1539,0,0,,0,0,rule,1,water
+P1540,0,0,,0,0,rule,0,
+P1541,0,0,,0,0,rule,0,
+P1542,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,mollusc
+P1543,0,0,,0,0,rule,0,
+P1544,1,1,Living organisms and biodiversity,0,0,rule,0,animals
+P1545,0,0,,1,1,rule,1,light
+P1546,0,0,,0,0,rule,0,
+P1547,0,0,,0,0,rule,0,
+P1548,0,0,,0,0,rule,0,
+P1549,0,0,,0,0,rule,0,
+P1550,1,1,Science and technology,1,1,rule,1,electric|resistance
+P1551,0,0,,0,0,rule,0,
+P1552,0,0,,0,0,rule,0,
+P1553,0,0,,0,0,rule,2,air
+P1554,0,1,Supplementary science search,1,1,rule,2,atmosphere|pressure
+P1555,1,1,Living organisms and biodiversity,1,1,rule,1,fish
+P1556,0,0,,0,0,rule,0,deep
+P1557,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1558,0,0,,0,0,rule,0,deep
+P1559,1,1,Living organisms and biodiversity,1,1,rule,1,coral
+P1560,1,1,Living organisms and biodiversity|Natural environment and interactions,2,2,rule,2,fish|current|gulf stream
+P1561,1,1,Natural environment and interactions|Science and technology,2,2,AI contextual review,2,current|gulf stream|electric|light
+P1562,0,0,,0,0,rule,0,
+P1563,0,0,,0,0,rule,0,
+P1564,1,1,Natural environment and interactions,0,0,rule,0,sea|seas
+P1565,1,1,Natural environment and interactions,1,1,rule,1,light
+P1566,0,0,,0,0,rule,0,
+P1567,0,0,,0,0,rule,0,
+P1568,0,0,,0,0,rule,0,
+P1569,0,0,,0,0,rule,0,
+P1570,0,0,,0,0,rule,0,
+P1571,0,0,,0,0,rule,0,
+P1572,0,0,,0,0,rule,0,
+P1573,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1574,1,1,Natural environment and interactions,0,0,rule,1,life|sea
+P1575,0,0,,0,0,rule,0,
+P1576,0,0,,0,0,rule,0,
+P1577,0,0,,0,0,rule,0,
+P1578,0,0,,0,0,rule,0,
+P1579,0,0,,0,0,rule,0,
+P1580,0,0,,0,0,rule,0,
+P1581,1,1,Natural environment and interactions,0,0,rule,0,nature
+P1582,0,0,,0,0,rule,0,
+P1583,0,0,,0,0,rule,0,
+P1584,0,0,,0,0,rule,0,island
+P1585,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,fish|currents|gulf stream|barometer|electricity|steam|atmosphere|degrees|temperature
+P1586,1,1,Natural environment and interactions,1,2,AI contextual review,2,reefs
+P1587,1,1,Natural environment and interactions,2,2,rule,2,molluscs|current|gulf stream|temperature
+P1588,1,1,Natural environment and interactions|Science and technology,2,2,rule,1,electric
+P1589,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,fishing
+P1590,0,0,,0,0,rule,0,miles
+P1591,1,1,Natural environment and interactions|Science and technology,2,2,rule,2,molluscs|electric|pressure
+P1592,1,1,Natural environment and interactions,1,1,rule,1,light
+P1593,0,0,,0,0,rule,0,
+P1594,0,0,,0,0,rule,0,shores|water|ship
+P1595,1,1,Natural environment and interactions,1,1,rule,1,steam
+P1596,0,0,,0,0,rule,0,
+P1597,1,1,Natural environment and interactions,1,1,AI contextual review,1,sea|water|vessel|depth
+P1598,1,1,Natural environment and interactions,1,1,rule,2,ocean|water|waters|vessel
+P1599,0,0,,0,0,rule,0,water|vessel
+P1600,0,0,,1,1,rule,0,water|ship|vessel
+P1601,0,0,,0,0,rule,0,
+P1602,1,1,Natural environment and interactions,1,1,rule,1,degrees
+P1603,0,0,,0,0,rule,0,
+P1604,0,0,,1,1,rule,0,steam
+P1605,0,0,,0,0,rule,0,ship
+P1606,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1607,0,0,,0,0,rule,0,
+P1608,0,0,,0,0,rule,0,vessel
+P1609,0,0,,0,0,rule,0,
+P1610,1,1,Science and technology,1,1,researcher-reviewed pilot,1,engine|submarine
+P1611,1,1,Natural environment and interactions,0,0,rule,0,sea|vessel
+P1612,0,0,,0,0,rule,0,water|ship|vessel
+P1613,0,0,,0,0,rule,0,
+P1614,0,0,,0,0,rule,0,
+P1615,0,0,,0,0,rule,0,
+P1616,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,2,2,rule,2,cetacean|coral|narwhal|hunting|engine|submarine|light
+P1617,0,0,,0,0,rule,0,air
+P1618,0,0,,0,0,rule,0,vessel
+P1619,0,0,,0,0,rule,0,ship
+P1620,1,1,Natural environment and interactions,0,0,rule,2,sea
+P1621,0,0,,0,0,rule,0,
+P1622,0,0,,0,0,rule,0,
+P1623,0,0,,0,0,rule,0,vessel
+P1624,0,0,,0,0,rule,0,vessel
+P1625,0,0,,0,0,rule,0,ship|speed
+P1626,0,0,,0,0,rule,0,ship|miles
+P1627,0,0,,0,0,rule,0,
+P1628,0,0,,0,0,rule,0,
+P1629,0,0,,1,1,rule,0,steam
+P1630,0,0,,0,0,rule,0,
+P1631,0,0,,0,0,rule,0,
+P1632,0,0,,1,1,rule,1,compass
+P1633,1,1,Natural environment and interactions,0,0,rule,0,sea|ship
+P1634,1,1,Natural environment and interactions,0,0,rule,1,nature|ocean|sea|vessel|deep
+P1635,0,1,Supplementary science search,1,1,rule,1,atmosphere|light
+P1636,0,0,,1,1,rule,2,light
+P1637,0,0,,0,0,rule,0,water|speed
+P1638,0,0,,0,0,rule,0,
+P1639,0,0,,0,0,rule,1,water
+P1640,0,0,,1,1,rule,1,light
+P1641,0,0,,0,0,rule,2,water
+P1642,1,1,Natural environment and interactions,0,0,rule,2,sea|water|vessel|air|weight
+P1643,0,0,,0,0,rule,0,deep
+P1644,1,1,Natural environment and interactions|Science and technology,2,1,AI contextual review,1,electric|instruments|light
+P1645,0,0,,0,0,rule,0,
+P1646,0,0,,0,0,rule,0,miles
+P1647,0,0,,0,0,rule,0,
+P1648,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1649,1,1,Natural environment and interactions,1,1,rule,1,light
+P1650,0,0,,1,1,rule,0,force
+P1651,0,0,,0,0,rule,0,
+P1652,1,1,Natural environment and interactions,1,1,rule,1,light
+P1653,1,1,Natural environment and interactions,0,0,rule,0,sea
+P1654,1,1,Living organisms and biodiversity|Natural environment and interactions|Science and technology,1,1,rule,1,coral|gulf stream|submarine
+P1655,0,0,,0,0,rule,0,
+P1656,0,0,,0,0,rule,0,life
+P1657,0,0,,0,0,rule,0,
+P1658,0,0,,0,0,rule,0,
+P1659,0,0,,0,0,rule,0,
+P1660,0,0,,1,1,rule,1,light
+P1661,0,0,,0,0,rule,0,
+P1662,0,0,,1,1,rule,1,light
+P1663,0,0,,0,0,rule,0,
+P1664,0,0,,0,0,rule,0,
+P1665,1,1,Science and technology,1,1,rule,1,submarine
+P1666,0,0,,0,0,rule,0,
+P1667,0,0,,0,0,rule,0,
+P1668,1,1,Living organisms and biodiversity|Natural environment and interactions,1,1,rule,1,whales|tide
+P1669,0,0,,0,0,rule,0,
+P1670,0,0,,1,1,rule,0,degrees
+P1671,0,0,,1,1,rule,0,waters|rocks|miles
+P1672,0,0,,0,0,rule,0,
+P1673,0,0,,0,0,rule,0,
+P1674,0,0,,0,0,rule,0,
+P1675,0,0,,0,0,rule,0,
+P1676,1,1,Natural environment and interactions,0,0,rule,0,seas
+P1677,0,0,,0,0,rule,0,
+P1678,0,0,,0,0,rule,0,
+P1679,0,0,,0,0,rule,0,
+P1680,1,1,Natural environment and interactions|Science and technology,1,1,rule,1,submarine
+P1681,1,1,Natural environment and interactions,1,1,rule,1,pressure
+P1682,0,0,,0,0,rule,0,life|vessel
+P1683,1,1,Natural environment and interactions,0,0,rule,0,life|living|ocean|sea|vessel|vessels

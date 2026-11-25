@@ -1,0 +1,45 @@
+﻿grade,unit_number,unit_title_tr,number_of_listed_outcomes,concept_groups_as_recorded
+3,1,Bilimsel Keşif Yolculuğu,2,science
+3,2,Canlılar Dünyasına Yolculuk,3,biology cell
+3,3,Yer Bilimciler İş Başında,2,earth
+3,4,"Maddeyi Tanıyalım, Karıştırıp Ayıralım",3,substance chemistry
+3,5,Hareketi Keşfediyorum,2,mechanics
+3,6,Yaşamımızı Kolaylaştıran Elektrik,3,electric circuits
+3,7,"Toprağı Tanıyorum, Tarımı Keşfediyorum",2,soil
+3,8,Canlıların Yaşam Alanlarına Yolculuk,3,ecology biology
+4,1,Bilime Yolculuk,2,science
+4,2,Sağlıklı Besleniyorum,3,health body
+4,3,Dünyamızı Keşfedelim,3,earth astronomy
+4,4,Maddenin Değişimi,2,substance
+4,5,Mıknatısı Keşfediyorum,3,magnet
+4,6,Enerji Dedektifleri,2,energy mechanics
+4,7,Işığın Peşinde,3,optics
+4,8,Sürdürülebilir Şehirler ve Topluluklar,1,ecology
+5,1,Gökyüzündeki Komşularımız ve Biz,4,astronomy
+5,2,Kuvveti Tanıyalım,5,mechanics
+5,3,Canlıların Yapısına Yolculuk,4,cell biology
+5,4,Işığın Dünyası,3,optics
+5,5,Maddenin Doğası,6,substance chemistry
+5,6,Yaşamımızdaki Elektrik,3,circuits electric
+5,7,Sürdürülebilir Yaşam ve Geri Dönüşüm,3,ecology
+6,1,Güneş Sistemi ve Tutulmalar,4,astronomy
+6,2,Kuvvetin Etkisinde Hareket,3,mechanics
+6,3,Canlılarda Sistemler,9,body biology
+6,4,Işığın Yansıması ve Renkler,7,optics
+6,5,Maddenin Ayırt Edici Özellikleri,6,substance mechanics
+6,6,Elektriğin İletimi ve Direnç,3,circuits electric
+6,7,Sürdürülebilir Yaşam ve Etkileşim,4,ecology biology
+7,1,Uzay Çağı,5,astronomy science
+7,2,Kuvvet ve Enerjiyi Keşfedelim,3,mechanics energy
+7,3,Vücudumuzdaki Sistemler,9,body biology
+7,4,Işığın Kırılması ve Mercekler,3,optics
+7,5,Maddenin Doğasına Yolculuk,11,chemistry substance
+7,6,Elektriklenme,3,electric
+7,7,Sürdürülebilir Yaşam ve Enerji,2,energy ecology
+8,1,Mevsimler ve İklim,2,climate
+8,2,Yaşamı Kolaylaştıran Kuvvet,2,machines mechanics
+8,3,Yaşamın Gizemi,8,genetic biology
+8,4,Sesin Dünyası,6,sound
+8,5,Periyodik Tablo ve Maddenin Etkileşimi,8,chemistry
+8,6,Elektriğin Yolculuğu,10,circuits electric energy
+8,7,Sürdürülebilir Yaşam ve Madde Döngüleri,7,photosynthesis ecology climate body

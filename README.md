@@ -18,6 +18,9 @@ Welcome to my research portfolio. I work at the intersection of **artificial int
 
 ## Selected Research & Projects
 
+### NLP-assisted document analysis in science education
+Gülsüm Meço’s study of *Twenty Thousand Leagues under the Sea* follows 1,680 paragraphs from keyword screening to contextual review and curriculum matching. [Read the full paper, explore the original workbooks and run the code](projects/verne-science-education/).
+
 ### AUTIM — Adaptable Unit-Based Technology Integration Model
 A research project developing an adaptable, unit-based approach to integrating educational technologies into teaching. Conducted at **Boğaziçi University** with support from **TÜBİTAK 2218**.
 

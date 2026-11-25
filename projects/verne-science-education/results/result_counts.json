@@ -1,0 +1,115 @@
+{
+  "corpus_paragraphs": 1680,
+  "earlier_keyword_candidates": 622,
+  "expanded_keyword_candidates": 659,
+  "expanded_keyword_nonmatches": 1021,
+  "expanded_candidates_percent": 39.23,
+  "overlapping_candidate_groups": {
+    "Natural environment and interactions": 419,
+    "Living organisms and biodiversity": 222,
+    "Science and technology": 160,
+    "Supplementary science search": 37,
+    "Earth and geosciences": 26
+  },
+  "initial_rule_codes": {
+    "0": 1037,
+    "1": 495,
+    "2": 148
+  },
+  "combined_preliminary_codes": {
+    "0": {
+      "n": 1044,
+      "percent": 62.14
+    },
+    "1": {
+      "n": 474,
+      "percent": 28.21
+    },
+    "2": {
+      "n": 162,
+      "percent": 9.64
+    }
+  },
+  "combined_code_provenance": {
+    "AI contextual review": 60,
+    "researcher-reviewed pilot": 50,
+    "rule": 1570
+  },
+  "later_preliminary_codes": {
+    "0": 1063,
+    "1": 383,
+    "2": 234
+  },
+  "changed_combined_to_later": 292,
+  "pilot_sample_groups": {
+    "EK": 6,
+    "F1": 6,
+    "F2": 6,
+    "F3": 6,
+    "F4": 6,
+    "no match": 20
+  },
+  "rule_vs_final_review": {
+    "same": 29,
+    "n": 50,
+    "percent": 58.0
+  },
+  "rule_vs_initial_blind_review": {
+    "same": 26,
+    "n": 50,
+    "percent": 52.0
+  },
+  "initial_blind_vs_final_review": {
+    "same": 35,
+    "n": 50,
+    "percent": 70.0
+  },
+  "pilot_matrix_rows_rule_columns_final_0_1_2": [
+    [
+      12,
+      1,
+      5
+    ],
+    [
+      6,
+      5,
+      9
+    ],
+    [
+      0,
+      0,
+      12
+    ]
+  ],
+  "reviewed_codes_in_keyword_nonmatch_controls": {
+    "0": 13,
+    "1": 1,
+    "2": 6
+  },
+  "curriculum_units": 44,
+  "curriculum_outcomes_in_inventory": 182,
+  "unit_link_records": 976,
+  "distinct_paragraphs_with_candidate_unit": 437,
+  "focused_outcomes": {
+    "FB.5.4.1.1": 6,
+    "FB.6.5.3.1": 2,
+    "FB.6.7.1.1": 41,
+    "FB.8.6.2.1": 37
+  },
+  "candidate_outcome_links": 86,
+  "distinct_outcome_candidate_paragraphs": 84,
+  "scored_outcome_links": 62,
+  "distinct_scored_paragraphs": 60,
+  "scored_outcome_codes": {
+    "0": 28,
+    "1": 27,
+    "2": 7
+  },
+  "unscored_outcome_links": 24,
+  "separate_20_passage_curriculum_pilot_blank_means_unassigned": {
+    "": 5,
+    "0": 11,
+    "1": 2,
+    "2": 2
+  }
+}
